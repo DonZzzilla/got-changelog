@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Ghosts of Tabor Changelog</title>
+  <link>https://github.com/DonZzzilla/got-changelog</link>
+  <description>Full patch history with build numbers for Ghosts of Tabor</description>
+  <language>en</language>
+  <lastBuildDate>Tue, 02 Jun 2026 18:04:54 -0000</lastBuildDate>
+  <item>
+    <title>0.13.0.8808.63144 (2026-05-18)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added the ability to turn the mirror off (from the main terminal, bottom right setting icon)<br>• Added Supporter DLC ( 4 tattoos, 6 gun skins, 3 t-shirts, 1 supporter patch)<br><strong>🐛Bug fixes &amp; improvements🐛(0.13.0 Hotfix #4)</strong><br>• Fixed hand socket on the 9x18 ammo box<br>• Fixed an issue with the splinter cell NVGs after removing helmet<br>• Fixed a mirror sporadic freeze<br>• Fixed the compass being removed in-raid after adjusting it in the menu<br>• Fixed a glitch where closing and opening the backpack would allow players to run faster<br>…and 1 more]]></description>
+    <pubDate>Mon, 18 May 2026 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-13-0-8808-63144</guid>
+  </item>
+  <item>
+    <title>0.13.0.8783.62795 (2026-05-08)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.13.0 Hotfix #3)</strong><br>• Added blocking volumes on top of labs<br>• Fixed some DLCs missing from the painting terminal<br>• Fixed doors not being in sync for every player<br>• Fixed loot boxes not replicating (being unable to grab loot inside after opening)<br>• Fixed duffle bag creating performance issue<br>…and 14 more<br><strong>🗒️ To Note:</strong><br>• Removed Crawlers and Sui Dabz items from these missions (PvP &amp; PvE):<br>• If you already have the mission active, please abandon and accept it again.]]></description>
+    <pubDate>Fri, 08 May 2026 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-13-0-8783-62795</guid>
+  </item>
+  <item>
+    <title>0.13.0.8759.62492 (2026-05-01)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.13.0 Hotfix #2)</strong><br>• Fixed having to level travel to get turn-in mission to register as completed<br>• Fixed boss weapons flying away (they should now be put on the ground)<br>• Improved NPCs performance optimization (only performance, not behavior)<br>• Improved Loot boxes performance optimization (only performance, not behavior)<br>• Improved overall coloring and lighting of the Bunker and Island of Tabor (more to come)]]></description>
+    <pubDate>Fri, 01 May 2026 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-13-0-8759-62492</guid>
+  </item>
+  <item>
+    <title>0.13.0.8723.62121 (2026-04-23)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.13.0 Hotfix #1)</strong><br>• Fixed PSVR2 black screen<br>• Fixed shoulder patches rendering green in character creation<br>• Balanced ammo loot to have more variations in raid]]></description>
+    <pubDate>Thu, 23 Apr 2026 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-13-0-8723-62121</guid>
+  </item>
+  <item>
+    <title>0.13.0.8718.62075 (2026-04-22)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>Notes</strong><br>• PvP mode will start without its bosses. We are slowly introducing them back. Friday, Krtek and the collector are arriving. Sunday, all bosses will be back in Tabor.<br><strong>✨Key features✨</strong><br>• Added 2 new guns<br>• Added 4 new grips<br>• Added 2 new cosmetic head gear + 1 protection mask<br>• Several quality of life fixes, balancing and improvements!<br><strong>➕New features➕</strong><br>• Added new Info system<br>• Added new gun: Galil Ace Gen 2<br>• Added new gun: PPK 20 SMG<br>• Added new grip: Tigerclaw<br>• Added new grip: Romanian DL<br>…and 10 more<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>• Adjusted Matka Miest kill volumes<br>• Adjusted EULA UI<br>• Adjusted Labs collisions<br>• Adjusted Matka Miest collisions<br>• Fixed an exploit with storage cabinet<br>…and 26 more]]></description>
+    <pubDate>Wed, 22 Apr 2026 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-13-0-8718-62075</guid>
+  </item>
+  <item>
+    <title>0.12.3.8635.61118 (2026-03-31)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Tue, 31 Mar 2026 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-3-8635-61118</guid>
+  </item>
+  <item>
+    <title>0.12.3.8626.60704 (2026-03-30)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 30 Mar 2026 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-3-8626-60704</guid>
+  </item>
+  <item>
+    <title>0.12.3.8604.60704 (2026-03-19)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 19 Mar 2026 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-3-8604-60704</guid>
+  </item>
+  <item>
+    <title>0.12.2 Hotfix #2 (2026-02-27)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Fri, 27 Feb 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-2 Hotfix #2</guid>
+  </item>
+  <item>
+    <title>0.12.2 Hotfix #1 (2026-02-26)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 26 Feb 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-2 Hotfix #1</guid>
+  </item>
+  <item>
+    <title>0.12.2 (2026-02-26)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 26 Feb 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-2</guid>
+  </item>
+  <item>
+    <title>0.12.1 Hotfix #2 (2026-02-09)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 09 Feb 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-1 Hotfix #2</guid>
+  </item>
+  <item>
+    <title>0.12.1 Hotfix #1 (2026-01-30)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Fri, 30 Jan 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-1 Hotfix #1</guid>
+  </item>
+  <item>
+    <title>0.12.1 (2026-01-29)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 29 Jan 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-1</guid>
+  </item>
+  <item>
+    <title>0.12.0 Hotfix #6 (2026-01-22)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 22 Jan 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-0 Hotfix #6</guid>
+  </item>
+  <item>
+    <title>0.12.0 Hotfix #5 (2026-01-21)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Wed, 21 Jan 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-0 Hotfix #5</guid>
+  </item>
+  <item>
+    <title>0.12.0.8387.58015 (2026-01-08)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>Club 80</strong><br>• Some people got the club 80 patch by mistake. We are removing the club 80 reward acquired via this issue. <br><br>• The club 80 will only be available to people reaching the right player level, unlocking the mission and completing it.]]></description>
+    <pubDate>Thu, 08 Jan 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-0-8387-58015</guid>
+  </item>
+  <item>
+    <title>0.12.0.8362.57781 (2026-01-02)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Fri, 02 Jan 2026 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-0-8362-57781</guid>
+  </item>
+  <item>
+    <title>0.12.0.8351.57650 (2025-12-23)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Tue, 23 Dec 2025 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-0-8351-57650</guid>
+  </item>
+  <item>
+    <title>0.12.0.8340.57536 (2025-12-19)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛 Bug fixes &amp; improvements 🐛 (0.12.0 Hotfix #1)</strong><br>• Fixed users not getting the reconnect prompt after crashing or being disconnected,<br>• Fixed enemies shooting at players before they are logged in,<br>• Fixed Splinter cell spray not working on the MP7,<br>• Fixed a crash related to storage crates,<br>• Fixed a crash related to weapon attachment,<br>…and 11 more]]></description>
+    <pubDate>Fri, 19 Dec 2025 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-0-8340-57536</guid>
+  </item>
+  <item>
+    <title>0.12.0.8327.57461 (2025-12-17)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>✨Key features✨</strong><br>• New bunker along with several new/improved features including easy access to market, storage crates and more!<br>• New weapon, the Honey Badger, which has been the most requested weapon by the community<br>• New UI for the main terminal, improving on the previous design<br>• Seasonal update including Christmas bunker, Tree, ornament and limited time missions<br><strong>➕New features➕</strong><br>• Added the Honey Badger<br>• Added the wipe reward (Honey Badger skin)<br>• Added the Splinter Cell DLC<br>• Added Christmas themed decorations in the bunker<br>• Added 2 new Christmas missions to collect exclusive seasonal rewards that persist through wipes<br>…and 25 more<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>• Fixed players being able to make night time render as daytime via OS time manipulations<br>• Fixed NVGs not making sound when storing in the backpack<br>• Improved weapon attachments reliability and performances]]></description>
+    <pubDate>Wed, 17 Dec 2025 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-12-0-8327-57461</guid>
+  </item>
+  <item>
+    <title>0.11.3.8096.55222 (2025-11-15)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Sat, 15 Nov 2025 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-3-8096-55222</guid>
+  </item>
+  <item>
+    <title>0.11.3.8092.55210 (2025-11-13)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 13 Nov 2025 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-3-8092-55210</guid>
+  </item>
+  <item>
+    <title>0.11.3.8088.55190 (2025-11-13)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 13 Nov 2025 08:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-3-8088-55190</guid>
+  </item>
+  <item>
+    <title>0.11.2.7993.54145 (2025-10-25)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Sat, 25 Oct 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-2-7993-54145</guid>
+  </item>
+  <item>
+    <title>0.11.2.7984.53933 (2025-10-23)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 23 Oct 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-2-7984-53933</guid>
+  </item>
+  <item>
+    <title>0.11.2.7943.53694 (2025-10-17)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Fri, 17 Oct 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-2-7943-53694</guid>
+  </item>
+  <item>
+    <title>0.11.2.7937.53625 (2025-10-16)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 16 Oct 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-2-7937-53625</guid>
+  </item>
+  <item>
+    <title>0.11.2.7932.53579 (2025-10-15)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>✨Key features✨</strong><br>• Added Time of the day and Weather update on IoT, Matka and Mall<br>• Added a Terminator DLC<br>• Added new gun grips and junk loot<br>• Fixed a lot of visual issues, bugs and exploits<br><strong>➕New features➕</strong><br>• Added a time of the day system on IoT, Matka and Mall (you will now be able to select one of two options that are 12h apart from each other. The time of the day will dynamically change as you play)<br>• Added a weather system on IoT, Matka and Mall (there will be various type of skies with more or less clouds and a chance to light/heavy rain during raid)<br>• Added a Terminator DLC (Rev 9 head, hands, gloves, sunglasses, leather jacket and Origin 12 shotgun with drum mag<br>• Added a T-Pain statue to IoT along with a timed event with our partner at One-Shot<br>• Added the ability to change gloves/hands model in character customization<br>…and 5 more<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>• Fixed Steam VR getting into raid faster than other platforms<br>• Fixed MP5 &amp; MP5k needing to be re-racked after level traveling<br>• Fixed weapon grips forcing players in ADS (aiming down sight) walking speed sometimes<br>• Fixed the bolt lock release not working after loading in raid with the weapon<br>• Fixed the Samurai helmet and Santa hat rolling infinitely when dropped<br>…and 5 more<br><strong>Island of Tabor</strong><br>• Fixed items falling into the floor in one of the watch towers<br>• Fixed a floating tree near power station<br>• Fixed collisions on some tent windows<br>• Fixed z-fighting documents in security room in labs<br>• Fixed lighthouse collision preventing access to a crate<br><strong>Mall</strong><br>• Fixed z-fighting at the Playground<br><strong>Matka Miest</strong><br>• Fixed a gap in graveyard<br>• Fixed z-fighting on walls in the graveyard<br>• Fixed a slab that was out of place in the graveyard<br>• Fixed floating streetlamps<br>• Fixed footsteps sounding like metal on the bridge<br>…and 7 more<br><strong>Silo</strong><br>• Fixed a hole in the floor<br>• Fixed z-fighting on the bedding area<br>• Fixed z-fighting in the elevator shaft<br><strong>Underground</strong><br>• Fixed metal footsteps in sewers where it shouldn’t be<br>• Fixed bunker missing footstep audio<br>• Fixed floating lights in the bunker<br>• Fixed an exploit with a collision<br><strong>Notes</strong><br>• What is Z-fighting? z-fighting is when two textures are fighting to be seen. It creates an uncomfortable illusion of two textures partially blending]]></description>
+    <pubDate>Wed, 15 Oct 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-2-7932-53579</guid>
+  </item>
+  <item>
+    <title>0.11.1.7740.50140 (2025-09-18)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added new ear pro (GSSH-01 and Peltor Comtac V)<br><strong>🐛Bug fixes &amp; improvements🐛(0.11.1 Hotfix #4)</strong><br>• Fixed mannequin not letting you take items off unless you took the vest off it<br>• Fixed a weapon attachment bug when stored on the mannequin<br>• Fixed brass jar lid being invisible from one side<br>• Fixed water jugs being 70% when purchased from the market (again - sorry! If you have it favorited, please delete and refavorite)<br>• Fixed the skin reset button not working<br>…and 5 more<br><strong>Island of Tabor</strong><br>• Fixed fin reaper spawning on top of the church<br>• Fixed Power station culling issues (model disappearing in some angles/distance)<br>• Fixed invisible stone post<br>• Fixed a faulty collider in labs that would cause players death with grenades<br>• Fixed logs on the ground missing collision<br>…and 7 more<br><strong>Mall</strong><br>• Fixed an exploit at the orange keycard security door<br>• Fixed blue doorframe not being bulletproof<br>• Fixed several LOD issues<br>• Fixed a bench missing collision<br>• Fixed the playground disappearing when looking from the tech store<br>…and 2 more<br><strong>Matka Miest</strong><br>• Fixed a missing floor collision<br>• Fixed players being able to parkour on dead bodies hanging<br>• Fixed the dead body leg clipping through the other leg<br>• Fixed a location where you could see under the map in the graveyard<br>• Fixed a hole in the map<br>…and 3 more<br><strong>Silo</strong><br>• Added kill volumes back<br>• Fixed a location you could shoot through walls<br>• Fixed floating lights off the wall<br>• Fixed collision being one sided on a desk<br>• Fixed Z-fighting with NVGs<br><strong>Underground</strong><br>• Fixed some colliders blocking bullet where it should not<br><strong>Tabor Market</strong><br>• Fixed an issue where you could clip out of map]]></description>
+    <pubDate>Thu, 18 Sep 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-1-7740-50140</guid>
+  </item>
+  <item>
+    <title>0.11.1.7663.49872 (2025-09-08)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.11.1 Hotfix #3)</strong><br>• Improved matchmaking]]></description>
+    <pubDate>Mon, 08 Sep 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-1-7663-49872</guid>
+  </item>
+  <item>
+    <title>0.11.1.7660.49815 (2025-09-04)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.11.1 Hotfix #2)</strong><br>• Fixed headsets not dropping on player's death<br>• Fixed Ragnar skin not showing on back<br>• Fixed players sending other players flying with crates<br>• Adjusted muffled audio on helmet covering ears]]></description>
+    <pubDate>Thu, 04 Sep 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-1-7660-49815</guid>
+  </item>
+  <item>
+    <title>0.11.1.7654.49969 (2025-09-03)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.11.1 Hotfix #1)</strong><br>• Fixed junk items disappearing (if you lost some, we’re sorry. We will send compensation)<br>• Fixed Collisions issues with Medium Wooden Loot Crates<br>• Fixed headphones tab not showing at Minty<br>• Fixed ear pro not storing on workbench shelves<br>• Fixed folded helmets not saving on shelves<br>…and 5 more]]></description>
+    <pubDate>Wed, 03 Sep 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-1-7654-49969</guid>
+  </item>
+  <item>
+    <title>0.11.1.7653.49766 (2025-09-03)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>✨Key features✨</strong><br>• We refactored the entire loot system, allowing us to have more control over the spawn quality and quantity. Based on community feedback, this was a major area to improve on. All streamers items can spawn in multiple locations on specific maps. With the change, PC components can only be found in computers. Loot crates spawns are dynamic, and might not always be in the same location.<br>• We added ear protection. It will modify the sounds based on the protection you wear. Allowing you to focus on the sounds that matters!<br><strong>➕New features➕</strong><br>• Added Ear protection (helmets that covers your ear will not accept ear protection)<br>• Added several new items to the game (collectibles and junk) including high value items and boss figurines<br>• Added new airdrop system and model (calling them with the flare gun is still the way, but you will have to unlock them by putting your hand on the hand scanner)<br>• Added folding helmet straps so they can fit in backpacks<br>• Added helmets muffling noise (certain helmets cover your ears and will muffle sounds)<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>• Fixed Ragesaq saber not spawning<br>• Fixed Scavs being able to see through the escalator railing + railing in general around mall<br>• Fixed grenade/smoke not going off if picked up by another player after the pin was pulled<br>• Fixed the glitch allowing users to store multiple grenades in one pouch<br>• Fixed the glitch allowing users to store two backpacks on the mannequin<br>…and 14 more]]></description>
+    <pubDate>Wed, 03 Sep 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-1-7653-49766</guid>
+  </item>
+  <item>
+    <title>0.11.0.7568.48950 (2025-08-15)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added Flare Gun and Flares  to call in Airdrops on Island of Tabor and Matka Meist<br>• Added Mamba Boss to Island Of Tabor<br>• Added New Boss Weapon (TSVL-8)<br>• Added Junk Items to Loot Pool<br>• Added Posable Mannequins<br>…and 1 more<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>• Reimplemented Squad VOIP<br>• Fixed Crashed with Squadded Players<br>• Fixed Spear Unable to attach grip (You can now use a grip on the spear)<br>• Fixed Issue with Helmets Rolling<br>• Fixed 1shot Sleeves Clipping<br>…and 4 more<br><strong>Chodov Mall</strong><br>• Fixed shooting through Orange Extract Windows<br><strong>Notes:</strong><br>• Airdrops have been reworked with this update. Airdrops will now no longer spawn randomly, and will only spawn from the flare gun.]]></description>
+    <pubDate>Fri, 15 Aug 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-0-7568-48950</guid>
+  </item>
+  <item>
+    <title>0.11.0.7515.48453 (2025-08-08)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.11 Hotfix #3)</strong><br>• Fixed and improved the water shader on Island of Tabor]]></description>
+    <pubDate>Fri, 08 Aug 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-0-7515-48453</guid>
+  </item>
+  <item>
+    <title>0.11.0.7498.48413 (2025-08-07)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.11 Hotfix #2)</strong><br>• Fixed Scav shooting through walls in some locations<br>• Fixed a water plane showing in the crater on island<br>• Fixed collisions on a closet in Dr Ians (Island of Tabor)<br>• Fixed several windows on Mall (to prevent exploits)<br>• Fixed 1shot gum blocking backpack from adding more 1shot gum<br>…and 11 more<br><strong>⚠️ IMPORTANT INFO REGARDING SQUAD VOICE CHAT ⚠️</strong><br>• Squad voice chat has been temporarily removed from the game while we investigate a crash that affects our players. We will resolve the issue as soon as we can. Thank you for your patience and understanding.]]></description>
+    <pubDate>Thu, 07 Aug 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-0-7498-48413</guid>
+  </item>
+  <item>
+    <title>0.11.0.7466.48151 (2025-08-01)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.11 Hotfix #1)</strong><br>• Fixed airdrops not fully landing on IoT<br>• Fixed some leaves blocking bullets on IoT<br>• Fixed head missing in the mirror with some specific combinations<br>• Fixed the ATE helmet hand socket<br>• Fixed 1shot being invisible when removed from the bag<br>…and 6 more<br><strong>➕New features➕</strong><br>• Added Island of Tabor 2.0 (replacing old island - there is no night island for the moment)<br>• Added 1shot vault on Island of Tabor<br>• Added the M9 Beretta (Added a Gold M9 Beretta as a wipe reward to players who played the previous wipe)<br>• Added player stats<br>• Added player customization (outfits, faces and patches)<br>…and 6 more<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>• Fixed an exploit allowing the user to get under the map with ladders<br>• Fixed the hand pose being backward on Proper D’s teen magazine<br>• Fixed angle grip eliminating vertical recoil<br>• Fixed an issue with the M240b<br>• Fixed players shooting their hands sometimes<br>…and 4 more<br><strong>Matka Miest Underground</strong><br>• Fixed Chodov garage glass not being bulletproof.]]></description>
+    <pubDate>Fri, 01 Aug 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-11-0-7466-48151</guid>
+  </item>
+  <item>
+    <title>0.10.5.7411.47721 (2025-07-25)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added foxtrot Zero dropping pistols on death<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>• Fixed light issues on several maps<br>• Fixed Nikolai (shotgun boss) fleeing<br>• Improved AI (NPCs) performance to improve game stability (server crash)]]></description>
+    <pubDate>Fri, 25 Jul 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-5-7411-47721</guid>
+  </item>
+  <item>
+    <title>0.10.5.7395.47623 (2025-07-23)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>✨Key features✨</strong><br>• Added 2 new bosses (with unique armor kits and weapons) and a new NPC faction<br>• Added voice lines to all bosses<br>• Improved NPCs logic<br>• Many fixes and improvements<br><strong>➕New features➕</strong><br>• Added Zero Foxtrot faction (fighting players and Fenix)<br>• Added Nikolai and Tatra (Foxtrot bosses with new armor kits)<br>• Added NPC limited ammo (they now have physical magazines)<br>• Added NPCs fleeing when out of ammo<br>• Added pouches the NPC to keep their magazines<br>…and 4 more<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>• Fixed height calibration/player IK breaking when looking down or leaning back<br>• Fixed an exploit that allowed players to shoot through glass and some walls<br>• Fixed an exploit that allowed players to shoot through red key cards room in the mall<br>• Fixed players being able to grab the foregrip<br>• Fixed water filters being wrongfully consumed when using water in the other room (nursery and kitchen)<br>…and 5 more<br><strong>Matka Miest Underground</strong><br>• Fixed a map exploit in museum<br><strong>Chodov Mall</strong><br>• Added a 1Shot kiosk<br>• Fixed a gap in a window<br>• Improved all spawns<br><strong>⚠️ Known issues ⚠️</strong><br>• On Standalone, you may want to play maps once in training to make sure you cache all materials so your performances are better on PvP]]></description>
+    <pubDate>Wed, 23 Jul 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-5-7395-47623</guid>
+  </item>
+  <item>
+    <title>0.10.4.7208.42415 (2025-06-25)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #5)</strong><br>• Fixed an edge case where some players would get stuck in slow walking,]]></description>
+    <pubDate>Wed, 25 Jun 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-4-7208-42415</guid>
+  </item>
+  <item>
+    <title>0.10.3.7202.42387 (2025-06-25)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added sprinting (hold your gun pointing up for a quick, short sprint)<br>• Added fireworks to Matka (night) and IoT (night) (visible on the 4th of July event)<br>• Added a Patriot hat (will be received on the 4th of July event)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #4)</strong><br>• Fixed an exploit using water on IoT<br>• Fixed an exploit on Matka<br>• Fixed a crash with backpacks<br>• Fixed the independent edition skin<br>• Rebalanced armors<br><strong>⚠️ Known issues ⚠️</strong><br>• If you lean back while seated after calibrating, you may have a hard time sprinting.]]></description>
+    <pubDate>Wed, 25 Jun 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-3-7202-42387</guid>
+  </item>
+  <item>
+    <title>0.10.3.7170.42090 (2025-06-18)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added pain killer (temporarily remove the effect from blacked out limbs)<br>• Added Epinephrine (temporarily enhance stamina recovery)<br>• Added VigorX (temporarily provide health, reduce weight effect on speed and stamina recovery)<br>• Added PvE difficulties (lower difficulty affect the accuracy of the NPCs and their ability to switch firing mode)<br>• Added a pistol flashlight<br>…and 2 more<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #3)</strong><br>• Fixed an exploit with the adventure backpack<br>• Fixed an exploit with the player IK<br>• Fixed an exploit with a wall on mall<br>• Fixed getting stuck on night island PvE loading<br>• Fixed some skins on the SCAR-L Magazine<br>…and 5 more<br><strong>➕New features➕</strong><br>• Added the FAL (gun)<br>• Added the MDR (gun)<br>• Added the HK416 (gun)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #2)</strong><br>• Fixed IdentX box now showing up on the market<br>• Fixed dog tags fitting into taken slots<br>• Fixed dog tags missing the killer name if the player dies from bleeding, hunger or thirst<br>• Fixed voice chat popping when level traveling even if muted]]></description>
+    <pubDate>Wed, 18 Jun 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-3-7170-42090</guid>
+  </item>
+  <item>
+    <title>0.10.1.7040.41287 (2025-05-22)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added IdentX container (Sold by Shiro)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #1)</strong><br>• Fixed the blacked out arms offset,<br>• Fixed helmets not saving on shelves,<br>• Fixed chest rigs floating on death (players and Fenix),<br>• Fixed impact grenades not exploding on impact,<br>• Fixed IdentX sometimes falling through the floor,<br>…and 3 more]]></description>
+    <pubDate>Thu, 22 May 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-1-7040-41287</guid>
+  </item>
+  <item>
+    <title>0.10.1.7019.41201 (2025-05-16)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added NPC armor (NPCs have a chance to spawn with armor)<br>• Added secure container (unlocked through missions)<br>• Added IdentX tags (dog tags) dropping when a player gets killed<br>• Added the independence edition M4 + stanag regular and drum mag skin<br>• Added an optional Skin DLC for secure container (secure container not included)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10 Hotfix #7)</strong><br>• Fixed magazine falling through the map on guns found in raid<br>• Fixed vent sound playing through the map in Island of Tabor<br>• Fixed the Aug fire selector being visually broken<br>• Fixed the CX8 storm fire selector being visually broken<br>• Fixed a mall spawn that could make you fall through the map<br>…and 1 more]]></description>
+    <pubDate>Fri, 16 May 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-1-7019-41201</guid>
+  </item>
+  <item>
+    <title>0.10.1.6976.40952 (2025-05-08)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added adaptive triggers on PS VR2<br><strong>🐛Bug fixes &amp; improvements🐛(0.10 Hotfix #6)</strong><br>• Fixed helmets not being grippable after killing a player<br>• Fixed a spawn in mall where player could fall through the map]]></description>
+    <pubDate>Thu, 08 May 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-1-6976-40952</guid>
+  </item>
+  <item>
+    <title>0.10.1.6964.40879 (2025-05-07)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Swapped Glitch energy drink for Chernobyl drinks<br><strong>🐛Bug fixes &amp; improvements🐛(0.10 Hotfix #5)</strong><br>• Fixed XM250 exploit<br>• Fixed M249 sound playing across the map when using a suppressor<br>• Fixed bullets not being able to be gripped when inside of a container (mag, boxes, …)<br>• Fixed the option to buy empty mags not working in market<br>• Fixed the Taran tactical G34 not accepting Glock 33rd magazine<br>…and 7 more]]></description>
+    <pubDate>Wed, 07 May 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-1-6964-40879</guid>
+  </item>
+  <item>
+    <title>0.10.1.6948.40705 (2025-04-30)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>➕New features➕</strong><br>• Added a full auto Glock<br>• Added the dominator helmet<br>• Added a region selector<br><strong>🐛Bug fixes &amp; improvements🐛(0.10 Hotfix #4)</strong><br>• Fixed helmets dropping very high after getting killed<br>• Fixed getting shot by Fenix on Matka Underground before being spawned<br>• Fixed the damage screen overlay disappearing when opening and closing the menu in raid<br>• Fixed screen calibration not saving (compass)<br>• Fixed health system being visually stuck at 84% in some case<br>…and 2 more]]></description>
+    <pubDate>Wed, 30 Apr 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-1-6948-40705</guid>
+  </item>
+  <item>
+    <title>0.10.0.6923.40485 (2025-04-24)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>✨Key features✨</strong><br>• Time to kill (TTK) adjustment (faster)<br>• OPK-7 offset fix<br><strong>➕New features➕</strong><br>• Added NVG slot to the Ronin helmet<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.0 Hotfix #3)</strong><br>• Fixed MP5k sight being too high<br>• Fixed OPK-7 offset<br>• Fixed the ability to run max speed while sitting down<br>• Fixed the fact that you could jump while sitting down<br>• Fixed the fact that you could crouch while sitting down<br>…and 7 more]]></description>
+    <pubDate>Thu, 24 Apr 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-10-0-6923-40485</guid>
+  </item>
+  <item>
+    <title>0.0.6896.40237 (2025-04-18)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.10.0 Hotfix #2)</strong><br>• Fixed magazines spawning near empty in raid (will now spawn with at least 1/3 of ammo)<br>• Fixed rations spawning with non-full magazines<br>• Fixed invincibility exploit<br>• Fixed low level players queue not working (it was putting everyone in together)<br>• Fixed Promedol box having fake syringes when being returned from the selling conveyor]]></description>
+    <pubDate>Fri, 18 Apr 2025 07:00:00 -0000</pubDate>
+    <guid>got-changelog-0-0-6896-40237</guid>
+  </item>
+</channel>
+</rss>

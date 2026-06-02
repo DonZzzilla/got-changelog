@@ -1,0 +1,2930 @@
+[
+  {
+    "version": "0.13.0.8808.63144",
+    "date": "2026-05-18",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added the ability to turn the mirror off (from the main terminal, bottom right setting icon)",
+          "Added Supporter DLC ( 4 tattoos, 6 gun skins, 3 t-shirts, 1 supporter patch)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.13.0 Hotfix #4)",
+        "items": [
+          "Fixed hand socket on the 9x18 ammo box",
+          "Fixed an issue with the splinter cell NVGs after removing helmet",
+          "Fixed a mirror sporadic freeze",
+          "Fixed the compass being removed in-raid after adjusting it in the menu",
+          "Fixed a glitch where closing and opening the backpack would allow players to run faster",
+          "Improved backpack's performance and removed ability to close backpacks that contain items while in hand"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.13.0.8783.62795",
+    "date": "2026-05-08",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.13.0 Hotfix #3)",
+        "items": [
+          "Added blocking volumes on top of labs",
+          "Fixed some DLCs missing from the painting terminal",
+          "Fixed doors not being in sync for every player",
+          "Fixed loot boxes not replicating (being unable to grab loot inside after opening)",
+          "Fixed duffle bag creating performance issue",
+          "Fixed the duffle bag \u201cplacement box\u201d (where you can store items) to be more accurate to the model",
+          "Fixed the PPK hand position when using \u201cjanky aim fix\u201d",
+          "Fixed the PPK spawning without a magazine",
+          "Fixed main menu UI missions not showing received items",
+          "Fixed some missions visually duplicating in the user\u2019s mission tab",
+          "Fixed tasks not highlighting red when failed",
+          "Fixed invisible collision after applying a bandage",
+          "Fixed an error with the generator trying to access an invalid index",
+          "Fixed AI weapon getting stuck in the ground",
+          "Fixed a case where a sound would play when you got close to the market in bunker",
+          "Improved missions UI (completed missions should now show in a different color)",
+          "Improved lighting in the bunker and Island of Tabor (another pass, more to come)",
+          "Removed the Crawler juice",
+          "Removed Sui Dab Blow Torch"
+        ]
+      },
+      {
+        "name": "\ud83d\uddd2\ufe0f To Note:",
+        "items": [
+          "Removed Crawlers and Sui Dabz items from these missions (PvP & PvE):",
+          "If you already have the mission active, please abandon and accept it again."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.13.0.8759.62492",
+    "date": "2026-05-01",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.13.0 Hotfix #2)",
+        "items": [
+          "Fixed having to level travel to get turn-in mission to register as completed",
+          "Fixed boss weapons flying away (they should now be put on the ground)",
+          "Improved NPCs performance optimization (only performance, not behavior)",
+          "Improved Loot boxes performance optimization (only performance, not behavior)",
+          "Improved overall coloring and lighting of the Bunker and Island of Tabor (more to come)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.13.0.8723.62121",
+    "date": "2026-04-23",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.13.0 Hotfix #1)",
+        "items": [
+          "Fixed PSVR2 black screen",
+          "Fixed shoulder patches rendering green in character creation",
+          "Balanced ammo loot to have more variations in raid"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.13.0.8718.62075",
+    "date": "2026-04-22",
+    "sections": [
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "Notes",
+        "items": [
+          "PvP mode will start without its bosses. We are slowly introducing them back. Friday, Krtek and the collector are arriving. Sunday, all bosses will be back in Tabor."
+        ]
+      },
+      {
+        "name": "\u2728Key features\u2728",
+        "items": [
+          "Added 2 new guns",
+          "Added 4 new grips",
+          "Added 2 new cosmetic head gear + 1 protection mask",
+          "Several quality of life fixes, balancing and improvements!"
+        ]
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added new Info system",
+          "Added new gun: Galil Ace Gen 2",
+          "Added new gun: PPK 20 SMG",
+          "Added new grip: Tigerclaw",
+          "Added new grip: Romanian DL",
+          "Added new grip: DD Vertical",
+          "Added new grip: A3 AFG",
+          "Added new magazine: VSS drum mag",
+          "Added Ruger 22 drum mag",
+          "Added balaclava",
+          "Added ski masks",
+          "Added ballistic mask",
+          "Added a loading message when switching game mode",
+          "Added a screen to the planters (instead of floating bar)",
+          "Removed time of day selection for Mall (now only 1 selection so more players get together)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Adjusted Matka Miest kill volumes",
+          "Adjusted EULA UI",
+          "Adjusted Labs collisions",
+          "Adjusted Matka Miest collisions",
+          "Fixed an exploit with storage cabinet",
+          "Fixed old Island showing for squad mates",
+          "Fixed missing difficulty not preselected on PvE",
+          "Fixed PvE/PvP terminal text not defaulting to current mode",
+          "Fixed PvE/PvP selector not initializing correctly",
+          "Fixed bHaptics not working",
+          "Fixed belt-fed LMG ammo belt remaining visible and cannot be removed when empty",
+          "Fixed R61 chest rig stretching when equipped",
+          "Fixed magnifying scopes creating gun sway",
+          "Fixed Karambit knife not doing damage",
+          "Fixed weight not working after reconnecting",
+          "Fixed an exploit with destructible boxes",
+          "Fixed the incorrect SFX playing at elevator on Mall",
+          "Fixed Z-fighting near graveyard entrance",
+          "Fixed water bottle losing water after level travel",
+          "Fixed the trash can delete items if the players walk too close to it",
+          "Fixed the Blicky having an extra set of iron sights",
+          "Fixed an armor/backpack storage exploit",
+          "Fixed the Atlyn face shield remaining after removal when using fourth echelon NVGs",
+          "Improved the map preview image for squad panel",
+          "Improved tasks missions clarity with the addition of vendor icons",
+          "Improved shaders for performance across all maps (no visual changes)",
+          "Improved ration system (several additions)",
+          "Increased mag purchase limit",
+          "Rebalanced Foxtrot\u2019s armor",
+          "Rebalanced market pricing",
+          "Removed dead vendors from the mission tab"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.12.3.8635.61118",
+    "date": "2026-03-31",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.3 Hotfix #1v2)",
+        "items": []
+      },
+      {
+        "name": "\ud83d\uddd2\ufe0f To Note:",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.3.8626.60704",
+    "date": "2026-03-30",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.3 Hotfix #1)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.3.8604.60704",
+    "date": "2026-03-19",
+    "sections": [
+      {
+        "name": "Notes",
+        "items": []
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.2 Hotfix #2",
+    "date": "2026-02-27",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.2 Hotfix #2)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.2 Hotfix #1",
+    "date": "2026-02-26",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.2 Hotfix #1)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.2",
+    "date": "2026-02-26",
+    "sections": [
+      {
+        "name": "\u2728Key features\u2728",
+        "items": []
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": []
+      },
+      {
+        "name": "Notes",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.1 Hotfix #2",
+    "date": "2026-02-09",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.1 Hotfix #2)",
+        "items": []
+      },
+      {
+        "name": "Notes",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.1 Hotfix #1",
+    "date": "2026-01-30",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.1 Hotfix #1)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.1",
+    "date": "2026-01-29",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.0 Hotfix #6",
+    "date": "2026-01-22",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.0 Hotfix #6)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.0 Hotfix #5",
+    "date": "2026-01-21",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.0 Hotfix #5)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.0.8387.58015",
+    "date": "2026-01-08",
+    "sections": [
+      {
+        "name": "Club 80",
+        "items": [
+          "Some people got the club 80 patch by mistake. We are removing the club 80 reward acquired via this issue. <br>",
+          "The club 80 will only be available to people reaching the right player level, unlocking the mission and completing it."
+        ]
+      },
+      {
+        "name": "Twitch drops",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.0 Hotfix #4)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.0.8362.57781",
+    "date": "2026-01-02",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.0 Hotfix #3)",
+        "items": []
+      },
+      {
+        "name": "Notes",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.0.8351.57650",
+    "date": "2025-12-23",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.12.0 Hotfix #2)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.12.0.8340.57536",
+    "date": "2025-12-19",
+    "sections": [
+      {
+        "name": "\ud83d\udc1b Bug fixes & improvements \ud83d\udc1b (0.12.0 Hotfix #1)",
+        "items": [
+          "Fixed users not getting the reconnect prompt after crashing or being disconnected,",
+          "Fixed enemies shooting at players before they are logged in,",
+          "Fixed Splinter cell spray not working on the MP7,",
+          "Fixed a crash related to storage crates,",
+          "Fixed a crash related to weapon attachment,",
+          "Fixed\u00a0 Streamer cam loading screen staying on when toggling power on/off,",
+          "Fixed quit screen hanging,",
+          "Fixed the CPU not saving in backpacks,",
+          "Fixed an edge case where the power station would lose collision while holding the circuit board,",
+          "Fixed a bug preventing from looking at a previously selected mission,",
+          "Fixed the tasks so you can only have 5 at a time (If you have more than 5 currently, you can still complete them but won't be able to accept new ones until you are under 5 tasks),",
+          "Improved the texture of the plant bed to match the seed mound,",
+          "Improved the plant station UI,",
+          "Improved the DLC terminal (added scrolling, Meta subsystem check for failure),",
+          "Improved the Main terminal (Added fallback on mission if the backend doesn\u2019t respond),",
+          "Improved the receive terminal (screen adjustment)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.12.0.8327.57461",
+    "date": "2025-12-17",
+    "sections": [
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2728Key features\u2728",
+        "items": [
+          "New bunker along with several new/improved features including easy access to market, storage crates and more!",
+          "New weapon, the Honey Badger, which has been the most requested weapon by the community",
+          "New UI for the main terminal, improving on the previous design",
+          "Seasonal update including Christmas bunker, Tree, ornament and limited time missions"
+        ]
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added the Honey Badger",
+          "Added the wipe reward (Honey Badger skin)",
+          "Added the Splinter Cell DLC",
+          "Added Christmas themed decorations in the bunker",
+          "Added 2 new Christmas missions to collect exclusive seasonal rewards that persist through wipes",
+          "Added a Christmas tree with collectible ornaments that can be found in raid to decorate your Christmas tree",
+          "Added back the Christmas themed music to the market",
+          "Added new bunker",
+          "Added new improved UI for the main terminal",
+          "Added market inside of the bunker (saving time between visits, removing the loading screen)",
+          "Added a new shooting range (it does not consume ammo while in the shooting range, hit your best shots!)",
+          "Added vertical storage to the gun wall",
+          "Added armor storage on gun wall",
+          "Added helmet storage on gun wall",
+          "Added armor lockers",
+          "Added backpack lockers",
+          "Added intel room requiring to place a motherboard, CPU, RAM and GPU to farm Korunas",
+          "Added free-placement storage cabinet to the bunker",
+          "Added geothermal energy (power station) to the bunker (you need to collect spark plugs and a circuit board to get it running and power your bunker - powerful alternative to the gas generator that is still present)",
+          "Added a new UI to the trade room pick-up kiosk (improved way to select items and collect them)",
+          "Added a new UI to the selling kiosk (separate from the pick-up kiosk with drops shelves)",
+          "Added crates to organize your items (including rifle magazine crate, pistol magazine crate, drum magazine crate, pistol crate, grenade crate, healing items [10 stackable items per slot] crates and junk items [10 stackable items per slot])",
+          "Added a physics based sock monkey to the bunker (community suggestion)",
+          "Added an MP5 drum mag",
+          "Added IdentX tag for staff and partnered creators",
+          "Added boots/shoes customization for players clothes (allowing a deeper customization and more variation on the battlefield)",
+          "Added DLC terminals to inform players of the new optional DLCs to support the studio",
+          "Added tactical goggles",
+          "Added the Club 80 gun skins (unlockable via a unique mission for players who reach level 80)",
+          "Added new posters in the game to support VR studios"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed players being able to make night time render as daytime via OS time manipulations",
+          "Fixed NVGs not making sound when storing in the backpack",
+          "Improved weapon attachments reliability and performances"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.11.3.8096.55222",
+    "date": "2025-11-15",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.3 Hotfix #7)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.11.3.8092.55210",
+    "date": "2025-11-13",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.3 Hotfix #6)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.11.3.8088.55190",
+    "date": "2025-11-13",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.3 Hotfix #5)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.11.2.7993.54145",
+    "date": "2025-10-25",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.2 Hotfix #4)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.11.2.7984.53933",
+    "date": "2025-10-23",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.2 Hotfix #3)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.11.2.7943.53694",
+    "date": "2025-10-17",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.2 Hotfix #2)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.11.2.7937.53625",
+    "date": "2025-10-16",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.2 Hotfix #1)",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.11.2.7932.53579",
+    "date": "2025-10-15",
+    "sections": [
+      {
+        "name": "\u2728Key features\u2728",
+        "items": [
+          "Added Time of the day and Weather update on IoT, Matka and Mall",
+          "Added a Terminator DLC",
+          "Added new gun grips and junk loot",
+          "Fixed a lot of visual issues, bugs and exploits"
+        ]
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added a time of the day system on IoT, Matka and Mall (you will now be able to select one of two options that are 12h apart from each other. The time of the day will dynamically change as you play)",
+          "Added a weather system on IoT, Matka and Mall (there will be various type of skies with more or less clouds and a chance to light/heavy rain during raid)",
+          "Added a Terminator DLC (Rev 9 head, hands, gloves, sunglasses, leather jacket and Origin 12 shotgun with drum mag",
+          "Added a T-Pain statue to IoT along with a timed event with our partner at One-Shot",
+          "Added the ability to change gloves/hands model in character customization",
+          "Added new grips",
+          "Added new streamer items (cycled some out based on our current Creator Program members)",
+          "Added new junk items",
+          "Added new loading screens to all maps",
+          "Added our custom matchmaker ( https://stats.mm.ghostsoftabor.com/ )"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed Steam VR getting into raid faster than other platforms",
+          "Fixed MP5 & MP5k needing to be re-racked after level traveling",
+          "Fixed weapon grips forcing players in ADS (aiming down sight) walking speed sometimes",
+          "Fixed the bolt lock release not working after loading in raid with the weapon",
+          "Fixed the Samurai helmet and Santa hat rolling infinitely when dropped",
+          "Fixed floating helmet and armors after spamming grip",
+          "Fixed an exploit to cancel recoil",
+          "Fixed Mamba\u2019s hood showing in streamer cam",
+          "Improved grips balance",
+          "Improved audio when opening/closing backpacks while using Ear pro (reduced the sound)"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": [
+          "Fixed items falling into the floor in one of the watch towers",
+          "Fixed a floating tree near power station",
+          "Fixed collisions on some tent windows",
+          "Fixed z-fighting documents in security room in labs",
+          "Fixed lighthouse collision preventing access to a crate"
+        ]
+      },
+      {
+        "name": "Mall",
+        "items": [
+          "Fixed z-fighting at the Playground"
+        ]
+      },
+      {
+        "name": "Matka Miest",
+        "items": [
+          "Fixed a gap in graveyard",
+          "Fixed z-fighting on walls in the graveyard",
+          "Fixed a slab that was out of place in the graveyard",
+          "Fixed floating streetlamps",
+          "Fixed footsteps sounding like metal on the bridge",
+          "Fixed z-fighting near Cathedral tent",
+          "Fixed z-fighting at museum extract",
+          "Fixed several exploits with collision",
+          "Fixed floating sandbags",
+          "Fixed z-fighting in Museum entrance",
+          "Fixed wrong footstep sounds at Museum entrance",
+          "Fixed z-fighting near the bridge tower"
+        ]
+      },
+      {
+        "name": "Silo",
+        "items": [
+          "Fixed a hole in the floor",
+          "Fixed z-fighting on the bedding area",
+          "Fixed z-fighting in the elevator shaft"
+        ]
+      },
+      {
+        "name": "Underground",
+        "items": [
+          "Fixed metal footsteps in sewers where it shouldn\u2019t be",
+          "Fixed bunker missing footstep audio",
+          "Fixed floating lights in the bunker",
+          "Fixed an exploit with a collision"
+        ]
+      },
+      {
+        "name": "Notes",
+        "items": [
+          "What is Z-fighting? z-fighting is when two textures are fighting to be seen. It creates an uncomfortable illusion of two textures partially blending"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.11.1.7740.50140",
+    "date": "2025-09-18",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added new ear pro (GSSH-01 and Peltor Comtac V)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.1 Hotfix #4)",
+        "items": [
+          "Fixed mannequin not letting you take items off unless you took the vest off it",
+          "Fixed a weapon attachment bug when stored on the mannequin",
+          "Fixed brass jar lid being invisible from one side",
+          "Fixed water jugs being 70% when purchased from the market (again - sorry! If you have it favorited, please delete and refavorite)",
+          "Fixed the skin reset button not working",
+          "Fixed Promedol not spawning in raid",
+          "Fixed Promedol syringes sticking out of boxes",
+          "Fixed receiving empty Promedol from missions",
+          "Fixed knives spawning incorrectly in pouches",
+          "Improved loot balance (more chances to find some of the items)"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": [
+          "Fixed fin reaper spawning on top of the church",
+          "Fixed Power station culling issues (model disappearing in some angles/distance)",
+          "Fixed invisible stone post",
+          "Fixed a faulty collider in labs that would cause players death with grenades",
+          "Fixed logs on the ground missing collision",
+          "Fixed a collision blocking bullets at lighthouse",
+          "Fixed a loot crate access being blocked by a chair collision",
+          "Fixed a crate that would spawn inside of a crate",
+          "Fixed a see-through rock near shipping yard",
+          "Fixed a large collision on a rock blocking bullets near power station",
+          "Fixed players getting into the ocean near prison",
+          "Fixed a spot you could get stuck behind boxes in lighthouse"
+        ]
+      },
+      {
+        "name": "Mall",
+        "items": [
+          "Fixed an exploit at the orange keycard security door",
+          "Fixed blue doorframe not being bulletproof",
+          "Fixed several LOD issues",
+          "Fixed a bench missing collision",
+          "Fixed the playground disappearing when looking from the tech store",
+          "Fixed gaps on several posters",
+          "Fixed a painting clipping through the wall"
+        ]
+      },
+      {
+        "name": "Matka Miest",
+        "items": [
+          "Fixed a missing floor collision",
+          "Fixed players being able to parkour on dead bodies hanging",
+          "Fixed the dead body leg clipping through the other leg",
+          "Fixed a location where you could see under the map in the graveyard",
+          "Fixed a hole in the map",
+          "Fixed a bench missing collision",
+          "Fixed collisions on the Cathedral\u2019s doors",
+          "Fixed a doorframe exploit in museum"
+        ]
+      },
+      {
+        "name": "Silo",
+        "items": [
+          "Added kill volumes back",
+          "Fixed a location you could shoot through walls",
+          "Fixed floating lights off the wall",
+          "Fixed collision being one sided on a desk",
+          "Fixed Z-fighting with NVGs"
+        ]
+      },
+      {
+        "name": "Underground",
+        "items": [
+          "Fixed some colliders blocking bullet where it should not"
+        ]
+      },
+      {
+        "name": "Tabor Market",
+        "items": [
+          "Fixed an issue where you could clip out of map"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.11.1.7663.49872",
+    "date": "2025-09-08",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.1 Hotfix #3)",
+        "items": [
+          "Improved matchmaking"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.11.1.7660.49815",
+    "date": "2025-09-04",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.1 Hotfix #2)",
+        "items": [
+          "Fixed headsets not dropping on player's death",
+          "Fixed Ragnar skin not showing on back",
+          "Fixed players sending other players flying with crates",
+          "Adjusted muffled audio on helmet covering ears"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.11.1.7654.49969",
+    "date": "2025-09-03",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11.1 Hotfix #1)",
+        "items": [
+          "Fixed junk items disappearing (if you lost some, we\u2019re sorry. We will send compensation)",
+          "Fixed Collisions issues with Medium Wooden Loot Crates",
+          "Fixed headphones tab not showing at Minty",
+          "Fixed ear pro not storing on workbench shelves",
+          "Fixed folded helmets not saving on shelves",
+          "Fixed armor with modules not folding",
+          "Fixed chest rig falling through the world",
+          "Fixed Delta/Alpha container pricing",
+          "Fixed PC side cases being bullet proof",
+          "Fixed incorrect prices in market"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.11.1.7653.49766",
+    "date": "2025-09-03",
+    "sections": [
+      {
+        "name": "\u2728Key features\u2728",
+        "items": [
+          "We refactored the entire loot system, allowing us to have more control over the spawn quality and quantity. Based on community feedback, this was a major area to improve on. All streamers items can spawn in multiple locations on specific maps. With the change, PC components can only be found in computers. Loot crates spawns are dynamic, and might not always be in the same location.",
+          "We added ear protection. It will modify the sounds based on the protection you wear. Allowing you to focus on the sounds that matters!"
+        ]
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added Ear protection (helmets that covers your ear will not accept ear protection)",
+          "Added several new items to the game (collectibles and junk) including high value items and boss figurines",
+          "Added new airdrop system and model (calling them with the flare gun is still the way, but you will have to unlock them by putting your hand on the hand scanner)",
+          "Added folding helmet straps so they can fit in backpacks",
+          "Added helmets muffling noise (certain helmets cover your ears and will muffle sounds)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed Ragesaq saber not spawning",
+          "Fixed Scavs being able to see through the escalator railing + railing in general around mall",
+          "Fixed grenade/smoke not going off if picked up by another player after the pin was pulled",
+          "Fixed the glitch allowing users to store multiple grenades in one pouch",
+          "Fixed the glitch allowing users to store two backpacks on the mannequin",
+          "Fixed a glitch allowing users to put a silencer on the flare gun",
+          "Fixed Mamba\u2019s armor not showing in the bunker mirror when equipped",
+          "Fixed Mamba\u2019s armor clipping when stored in a locker",
+          "Fixed water bottle from rations and market being half full",
+          "Fixed NVGs placement on several helmets (they were visually off)",
+          "Fixed several airdrop issues",
+          "Fixed LOD issues with the medium wooden crates",
+          "Fixed weapons with attachment stored on mannequin floating in place if you move the hand of the mannequin after level travel",
+          "Fixed an exploit using OVRAS on PCVR",
+          "Fixed NPCs climbing rocks",
+          "Improved audio per map",
+          "Improved NPCs performance (optimized hardware performances - not shooting better)",
+          "Improved NPCs logic for sound alerts (will go investigate when hearing a sound and go back to patrol if nothing has been found)",
+          "Increase draw distance for players"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": []
+      },
+      {
+        "name": "Mall",
+        "items": []
+      },
+      {
+        "name": "Matka Miest",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.11.0.7568.48950",
+    "date": "2025-08-15",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added Flare Gun and Flares  to call in Airdrops on Island of Tabor and Matka Meist",
+          "Added Mamba Boss to Island Of Tabor",
+          "Added New Boss Weapon (TSVL-8)",
+          "Added Junk Items to Loot Pool",
+          "Added Posable Mannequins",
+          "Added New Streamer Items"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Reimplemented Squad VOIP",
+          "Fixed Crashed with Squadded Players",
+          "Fixed Spear Unable to attach grip (You can now use a grip on the spear)",
+          "Fixed Issue with Helmets Rolling",
+          "Fixed 1shot Sleeves Clipping",
+          "Fixed AI/NPC Not Walking",
+          "Fixed Missing Head when using Streamer cam",
+          "Fixed Being Shot in the Neck counting as headshot",
+          "Fixed Krtek wrong armor dropping"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Chodov Mall",
+        "items": [
+          "Fixed shooting through Orange Extract Windows"
+        ]
+      },
+      {
+        "name": "Notes:",
+        "items": [
+          "Airdrops have been reworked with this update. Airdrops will now no longer spawn randomly, and will only spawn from the flare gun."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.11.0.7515.48453",
+    "date": "2025-08-08",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11 Hotfix #3)",
+        "items": [
+          "Fixed and improved the water shader on Island of Tabor"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.11.0.7498.48413",
+    "date": "2025-08-07",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11 Hotfix #2)",
+        "items": [
+          "Fixed Scav shooting through walls in some locations",
+          "Fixed a water plane showing in the crater on island",
+          "Fixed collisions on a closet in Dr Ians (Island of Tabor)",
+          "Fixed several windows on Mall (to prevent exploits)",
+          "Fixed 1shot gum blocking backpack from adding more 1shot gum",
+          "Fixed servers shutting down when the last player crashed more than once",
+          "Fixed the ability to remove pouches from Foxtrot while they\u2019re alive",
+          "Fixed pouring ammo from the ammo pouch into the ammo loader not accepting the ammo",
+          "Fixed the location from which the bullets fall from the ammo pouch",
+          "Fixed bunker mirror missing head",
+          "Fixed FF patch being usable by non-FF players",
+          "Fixed some patches position on the player",
+          "Fixed patches showing the incorrect patch in multiplayer",
+          "Fixed outfit not saving after changing it",
+          "Fixed streamer cam fading when going near a dead body or bunker cat",
+          "Moved shelves in armory 2 and put back the armor locker"
+        ]
+      },
+      {
+        "name": "\u26a0\ufe0f IMPORTANT INFO REGARDING SQUAD VOICE CHAT \u26a0\ufe0f",
+        "items": [
+          "Squad voice chat has been temporarily removed from the game while we investigate a crash that affects our players. We will resolve the issue as soon as we can. Thank you for your patience and understanding."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.11.0.7466.48151",
+    "date": "2025-08-01",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.11 Hotfix #1)",
+        "items": [
+          "Fixed airdrops not fully landing on IoT",
+          "Fixed some leaves blocking bullets on IoT",
+          "Fixed head missing in the mirror with some specific combinations",
+          "Fixed the ATE helmet hand socket",
+          "Fixed 1shot being invisible when removed from the bag",
+          "Fixed VoIP switching from muted to squad chat when going back to bunker",
+          "Improved Island of Tabor Loot (more loot boxes)",
+          "Improved Fenix presence on Island of Tabor (more Fenix, more patrol routes)",
+          "Improved stamina drain (it depletes slower now)",
+          "Improved Walking and Jogging speed (faster)",
+          "Balanced all Stims"
+        ]
+      },
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added Island of Tabor 2.0 (replacing old island - there is no night island for the moment)",
+          "Added 1shot vault on Island of Tabor",
+          "Added the M9 Beretta (Added a Gold M9 Beretta as a wipe reward to players who played the previous wipe)",
+          "Added player stats",
+          "Added player customization (outfits, faces and patches)",
+          "Added a mirror in the player's room in bunker",
+          "Added blinking to characters",
+          "Added mouth moving when talking to players",
+          "Added a sell all button to the kiosk next to items",
+          "Added the Chromatic gun skin DLC",
+          "Added the BOA skin for BOAs (join our Discord to learn more about the BOA program at https://discord.gg/taborboahub )"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed an exploit allowing the user to get under the map with ladders",
+          "Fixed the hand pose being backward on Proper D\u2019s teen magazine",
+          "Fixed angle grip eliminating vertical recoil",
+          "Fixed an issue with the M240b",
+          "Fixed players shooting their hands sometimes",
+          "Fixed red keycard and 1shot keycard spawning in regular crates",
+          "Fixed 1shot keycard texture",
+          "Fixed weapons not looking metallic on standalone",
+          "Removed neck breaking (was unreliable and caused performance issue)"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Matka Miest Underground",
+        "items": [
+          "Fixed Chodov garage glass not being bulletproof."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.5.7411.47721",
+    "date": "2025-07-25",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added foxtrot Zero dropping pistols on death"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed light issues on several maps",
+          "Fixed Nikolai (shotgun boss) fleeing",
+          "Improved AI (NPCs) performance to improve game stability (server crash)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.5.7395.47623",
+    "date": "2025-07-23",
+    "sections": [
+      {
+        "name": "\u2728Key features\u2728",
+        "items": [
+          "Added 2 new bosses (with unique armor kits and weapons) and a new NPC faction",
+          "Added voice lines to all bosses",
+          "Improved NPCs logic",
+          "Many fixes and improvements"
+        ]
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added Zero Foxtrot faction (fighting players and Fenix)",
+          "Added Nikolai and Tatra (Foxtrot bosses with new armor kits)",
+          "Added NPC limited ammo (they now have physical magazines)",
+          "Added NPCs fleeing when out of ammo",
+          "Added pouches the NPC to keep their magazines",
+          "Added more variety to NPCs loadout",
+          "Added the Striker 12 shotgun (Boss weapon)",
+          "Added the M240b (Boss weapon)",
+          "Added voice lines to all bosses"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed height calibration/player IK breaking when looking down or leaning back",
+          "Fixed an exploit that allowed players to shoot through glass and some walls",
+          "Fixed an exploit that allowed players to shoot through red key cards room in the mall",
+          "Fixed players being able to grab the foregrip",
+          "Fixed water filters being wrongfully consumed when using water in the other room (nursery and kitchen)",
+          "Fixed weapon skin not applying to the magazine of the weapon inside the weapon when painting",
+          "Fixed players losing their gear if they disconnected during extraction",
+          "Fixed a playstation crossplay exploit",
+          "Fixed chest rig/armor floating after death",
+          "Improved delay to get the pricing of items sold"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Matka Miest Underground",
+        "items": [
+          "Fixed a map exploit in museum"
+        ]
+      },
+      {
+        "name": "Chodov Mall",
+        "items": [
+          "Added a 1Shot kiosk",
+          "Fixed a gap in a window",
+          "Improved all spawns"
+        ]
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": [
+          "On Standalone, you may want to play maps once in training to make sure you cache all materials so your performances are better on PvP"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.4.7208.42415",
+    "date": "2025-06-25",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10.1 Hotfix #5)",
+        "items": [
+          "Fixed an edge case where some players would get stuck in slow walking,"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.3.7202.42387",
+    "date": "2025-06-25",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added sprinting (hold your gun pointing up for a quick, short sprint)",
+          "Added fireworks to Matka (night) and IoT (night) (visible on the 4th of July event)",
+          "Added a Patriot hat (will be received on the 4th of July event)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10.1 Hotfix #4)",
+        "items": [
+          "Fixed an exploit using water on IoT",
+          "Fixed an exploit on Matka",
+          "Fixed a crash with backpacks",
+          "Fixed the independent edition skin",
+          "Rebalanced armors"
+        ]
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": [
+          "If you lean back while seated after calibrating, you may have a hard time sprinting."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.3.7170.42090",
+    "date": "2025-06-18",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added pain killer (temporarily remove the effect from blacked out limbs)",
+          "Added Epinephrine (temporarily enhance stamina recovery)",
+          "Added VigorX (temporarily provide health, reduce weight effect on speed and stamina recovery)",
+          "Added PvE difficulties (lower difficulty affect the accuracy of the NPCs and their ability to switch firing mode)",
+          "Added a pistol flashlight",
+          "Added the X11 camo pack (universal camo pack - fits on all guns)",
+          "Added more supported weapons on various skins from previous DLCs"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10.1 Hotfix #3)",
+        "items": [
+          "Fixed an exploit with the adventure backpack",
+          "Fixed an exploit with the player IK",
+          "Fixed an exploit with a wall on mall",
+          "Fixed getting stuck on night island PvE loading",
+          "Fixed some skins on the SCAR-L Magazine",
+          "Fixed secure container moving to saving areas when level traveling too close from a saving area",
+          "Fixed the game not working for Spectrum ISP customers",
+          "Reduced impact grenades chance to spawn in raid",
+          "Reduced the insta-kill radius of impact grenades",
+          "Rebalanced player speed (reverted it back to the original speed)"
+        ]
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added the FAL (gun)",
+          "Added the MDR (gun)",
+          "Added the HK416 (gun)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10.1 Hotfix #2)",
+        "items": [
+          "Fixed IdentX box now showing up on the market",
+          "Fixed dog tags fitting into taken slots",
+          "Fixed dog tags missing the killer name if the player dies from bleeding, hunger or thirst",
+          "Fixed voice chat popping when level traveling even if muted"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.1.7040.41287",
+    "date": "2025-05-22",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added IdentX container (Sold by Shiro)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10.1 Hotfix #1)",
+        "items": [
+          "Fixed the blacked out arms offset,",
+          "Fixed helmets not saving on shelves,",
+          "Fixed chest rigs floating on death (players and Fenix),",
+          "Fixed impact grenades not exploding on impact,",
+          "Fixed IdentX sometimes falling through the floor,",
+          "Fixed IdentX showing \u201cnone\u201d when the player got killed by an NPC,",
+          "Fixed reflex mini material,",
+          "Improved the prevention of backpacks and guns clipping into walls"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.1.7019.41201",
+    "date": "2025-05-16",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added NPC armor (NPCs have a chance to spawn with armor)",
+          "Added secure container (unlocked through missions)",
+          "Added IdentX tags (dog tags) dropping when a player gets killed",
+          "Added the independence edition M4 + stanag regular and drum mag skin",
+          "Added an optional Skin DLC for secure container (secure container not included)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10 Hotfix #7)",
+        "items": [
+          "Fixed magazine falling through the map on guns found in raid",
+          "Fixed vent sound playing through the map in Island of Tabor",
+          "Fixed the Aug fire selector being visually broken",
+          "Fixed the CX8 storm fire selector being visually broken",
+          "Fixed a mall spawn that could make you fall through the map",
+          "Rebalanced TTK (phase 1)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.1.6976.40952",
+    "date": "2025-05-08",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added adaptive triggers on PS VR2"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10 Hotfix #6)",
+        "items": [
+          "Fixed helmets not being grippable after killing a player",
+          "Fixed a spawn in mall where player could fall through the map"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.1.6964.40879",
+    "date": "2025-05-07",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Swapped Glitch energy drink for Chernobyl drinks"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10 Hotfix #5)",
+        "items": [
+          "Fixed XM250 exploit",
+          "Fixed M249 sound playing across the map when using a suppressor",
+          "Fixed bullets not being able to be gripped when inside of a container (mag, boxes, \u2026)",
+          "Fixed the option to buy empty mags not working in market",
+          "Fixed the Taran tactical G34 not accepting Glock 33rd magazine",
+          "Fixed NVGs not being removable from helmet",
+          "Fixed pouches not being removable from armor",
+          "Fixed helmet not saving on saving areas",
+          "Fixed armors not saving on saving areas",
+          "Fixed Atlyn face mask being able to be attached to other helmets",
+          "Fixed helmet spinning when attaching NVGs in raid",
+          "Fixed hands rotating around the thumb (PS VR2)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.1.6948.40705",
+    "date": "2025-04-30",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added a full auto Glock",
+          "Added the dominator helmet",
+          "Added a region selector"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10 Hotfix #4)",
+        "items": [
+          "Fixed helmets dropping very high after getting killed",
+          "Fixed getting shot by Fenix on Matka Underground before being spawned",
+          "Fixed the damage screen overlay disappearing when opening and closing the menu in raid",
+          "Fixed screen calibration not saving (compass)",
+          "Fixed health system being visually stuck at 84% in some case",
+          "Fixed an exploit using NRS",
+          "Fixed exploits using backpacks"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.0.6923.40485",
+    "date": "2025-04-24",
+    "sections": [
+      {
+        "name": "\u2728Key features\u2728",
+        "items": [
+          "Time to kill (TTK) adjustment (faster)",
+          "OPK-7 offset fix"
+        ]
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added NVG slot to the Ronin helmet"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10.0 Hotfix #3)",
+        "items": [
+          "Fixed MP5k sight being too high",
+          "Fixed OPK-7 offset",
+          "Fixed the ability to run max speed while sitting down",
+          "Fixed the fact that you could jump while sitting down",
+          "Fixed the fact that you could crouch while sitting down",
+          "Fixed an edge case where players would not take damage to the legs while jumping",
+          "Fixed the compass direction on the new watch",
+          "Fixed some issues with the new height calibration not being able to fit in some holes (like cells for example)",
+          "Increased .338 bullet damage to allow AWM to kill unarmored players in one hit",
+          "Increased promedol healing to match the new TTK",
+          "Tweaked break constraint for guns (leaving out of hands too easily)",
+          "Tweaked damage value to improve TTK"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.0.6896.40237",
+    "date": "2025-04-18",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10.0 Hotfix #2)",
+        "items": [
+          "Fixed magazines spawning near empty in raid (will now spawn with at least 1/3 of ammo)",
+          "Fixed rations spawning with non-full magazines",
+          "Fixed invincibility exploit",
+          "Fixed low level players queue not working (it was putting everyone in together)",
+          "Fixed Promedol box having fake syringes when being returned from the selling conveyor"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.0.6891.40206",
+    "date": "2025-04-17",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.10.0 Hotfix #1)",
+        "items": [
+          "Moved height calibration back to the menu (and jump to where it was before - right joystick click - the previous bindings have been removed)",
+          "Fixed the samurai sword clipping through walls",
+          "Fixed Promedol pricing",
+          "Fixed various market pricing changes"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.10.0.6880.40090",
+    "date": "2025-04-16",
+    "sections": [
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2728Key features\u2728",
+        "items": [
+          "Added a new health system with per body part damage. You can now get blacked out limbs with debuff effects.",
+          "Added a new watch model with an hologram to see your player status",
+          "Added a new healing item (Promodol)",
+          "Added 2 new weapons (M249 and MP5k)",
+          "Added 2 free wipe rewards (bunny ears and Tomahawk)",
+          "Improved missions and mission rewards"
+        ]
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added a new health system (body parts)",
+          "Added a new watch model with an hologram to see your player status",
+          "Added a new healing item (Promodol)",
+          "Added bunny ears (wipe reward)",
+          "Added a Tomahawk (free reward)",
+          "Added variable ammo count in magazines found in raid",
+          "Added the M249",
+          "Added the MP5k"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed the loot quality in keycard rooms on Mall",
+          "Fixed some wall exploits in Matka Miest",
+          "Fixed foregrip gaining collision in backpack",
+          "Fixed plant product gaining collision in backpack",
+          "Fixed 22lr box gaining collision in backpack",
+          "Fixed some conditions where the backpack would spin",
+          "Fixed the M16 and Galil Fenix accuracy (lowered their accuracy)",
+          "Fixed VOIP spam when it failed to connect to the VOIP service",
+          "Improved missions and mission rewards",
+          "Rebalanced the market (Bar is now level 3, MCX can only be found in raid but magazines are still purchasable, Stoner drum mags can only be found in raid and more pricing changes)"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Matka Miest Underground",
+        "items": [
+          "Improved Matka underground lighting",
+          "Improved Matka underground navigation (added signs)"
+        ]
+      },
+      {
+        "name": "Silo",
+        "items": [
+          "Fixed an exploit allowing you to see in the walls of Silo"
+        ]
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": [
+          "Steam VR binding may need to be reconfigured. The jump button and calibrate button has changed and may not automatically be assigned in some conditions. Jump is not left joystick up/north and calibrate is left joystick clicked in.",
+          "Placing items in the backpack while moving will create jitter/lag on the hand",
+          "Wrong sound when walking on some surfaces in Matka Underground",
+          "Healing item may stay floating for other players after using them",
+          "If default VOIP is set to \u201cmuted\u201d in settings, but manually changed to \u201cproximity\u201d in bunker (hand over mouth + trigger), on level travel, the watch will display \u201cproximity\u201d but the default setting will be applied (muted)."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.2.6794.39329",
+    "date": "2025-04-01",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.9.2 Hotfix #1)",
+        "items": [
+          "Fixed an edge case where PvE and PvP would get mixed",
+          "Fixed shields so they have the same stat as the VEST B  (penetration and blocking values)",
+          "Fixed the fact that you could place shields on mannequin (you cannot anymore)",
+          "Fixed an issue with height calibration where it would offset the player",
+          "Tweaked matchmaking (it is not requiring full servers anymore - but we are still waiting on more fixes to improve matchmaking)",
+          "Adjusted shields spawn rate"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.1.6785.39230",
+    "date": "2025-03-31",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added helmet slot to the backpack",
+          "Added 2 shields to the game (can only be found in raid)",
+          "Added the Samurai DLC*- Samurai helmet (C1300 skin)*- Samurai sword*- Samurai shields (small and large shield skins)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Refactored the backpacks (entirely rewrote several logics to improve their behavior - this mean it completely changes the hitboxes and add collision to the sides of the backpack for better item placement)",
+          "Fixed the number 1 crash on Ghosts of Tabor",
+          "Fixed a crash related to an exploit",
+          "Fixed items not highlighting in red in the backpack",
+          "Fixed not seeing extractions after reconnecting",
+          "Fixed magazine collisions in chest rig",
+          "Fixed NRS not working if the cap is pulled and released rapidly"
+        ]
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": [
+          "The backpack is visually stuttering when putting items in while walking",
+          "Grabbing weapon on the backpack slot(s) can hit into collisions inside the backpack",
+          "Putting the grip from the weapon that you came in raid with, in a backpack can sometimes create collisions in the backpack",
+          "Shields are into their first iteration (will receive tweaking)",
+          "Shields can be put on mannequins",
+          "The generator is not properly tracking fuel when adding it"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.1.6593.37429",
+    "date": "2025-02-18",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.9.1 Hotfix #2)",
+        "items": [
+          "Fixed a crash related to backpacks",
+          "Fixed a crash related to the IK",
+          "Adjusted the walking speed (reduced a bit)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.1.6573.37329",
+    "date": "2025-02-13",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.9.1 Hotfix #1)",
+        "items": [
+          "Fixed NRS causing a crash",
+          "Fixed ammo loader not socketing magazines",
+          "Fixed proximity voice chat not working in raid",
+          "Fixed falling animation playing the running animation instead",
+          "Fixed player speed (lowered it a bit)",
+          "Fixed Rips car battery not being accessible",
+          "Fixed not being able to plant seeds",
+          "Fixed not being able to water plants",
+          "Fixed not being able to fill the generator",
+          "Fixed items falling through the landscape",
+          "Fixed some cases of spinning guns and backpacks",
+          "Fixed conveyor belt not working in the trade room",
+          "Fixed AP powder not going in the ammo loader",
+          "Fixed Grim skin not being awarded",
+          "Fixed the IK being inconsistent when running and not holding a weapon",
+          "Removed outside collision box on backpacks"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.1.6556.37207",
+    "date": "2025-02-12",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added the ability to fold armors and backpacks",
+          "Added gun attachment to backpacks (but not the sling)",
+          "Added leaning",
+          "Added new animations for the player (to match the new IK introduced with leaning)",
+          "Added new NRS system (can inject anywhere, requires you to remove the cap, inject anywhere, click A/X depending on the hand holding it to begin injection and holding until it is completed or want to stop the healing process. Note that if you remove the NRS while it is injecting, it will keep emptying until depleted)",
+          "Added Grim skin (if you have Grim installed, you will unlock the skin)",
+          "Added a Meta review reward skin (if you reviewed the game on Meta, you should get the skin within a week)",
+          "Added streamer items (MetaSukiya's knife and TDVR's milk)",
+          "Changed how the scopes work (greatly improved clarity of the scope and they are more performant than before)",
+          "Changed adventure backpack models for a new one"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed a crash related to grabbing edge cases",
+          "Fixed mission reward items not working properly",
+          "Fixed an issue where the NPC neck would not snap when grabbing their head with both hands",
+          "Fixed some collisions on Matka",
+          "Fixed some collisions on Mall",
+          "Fixed an issue where the Bizon magazine did not show in market",
+          "Fixed an issue where the Mac10 magazine in the market wasn't working (wrong magazine)",
+          "Balanced scav weapons spawning (example : sniping tower has more chances to spawn rifles, Matka has more chance to spawn Bizons)"
+        ]
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": [
+          "Taking off your backpack in bunker (and PvE solo raids + training in both PvE and PvPvE) may collide with your holstered weapon",
+          "Placing a folded armor next to a grenade in the backpack in bunker (and PvE solo raids + training in both PvE and PvPvE) will cause it to spin",
+          "Helmets cannot be attached to the backpack yet, but it is coming. We had to take it out last minute do to issues discovered during QA. We're still working on it.",
+          "NRS causing a crash. We are aware of the issue of the new NRS system crashing Ghosts of Tabor. This seems to happen when you stab the NRS over and over again, without using it (although we are unsure of the exact repo steps). It will work as intended with only one injection. We will be fixing this issue soon (as well as the mag loader)."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.0.6444.36269",
+    "date": "2025-01-22",
+    "sections": [
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added Twitch drop implementation",
+          "Added a new grenade throwing system (assisted by where you are looking at)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.9.0 Hotfix #5)",
+        "items": [
+          "Fixed an edge case where a dead Fenix might still continue to shoot at you",
+          "Fixed placing two backpacks on your back at once would destroy one of the two",
+          "Fixed a visual duplication with items inside the backpack after level travel",
+          "Fixed eating with the spoon not decreasing hunger or thirst when eating",
+          "Fixed a bug where Sg552 could not receive the weapon skin pack 1"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.0.6371.35857",
+    "date": "2025-01-09",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.9.0 Hotfix #4)",
+        "items": [
+          "Fixed the behavior of backpack drop missions (only visible if the mission is active and will only accept the specified backpack type)",
+          "Fixed visual duplication bug with the selling conveyor",
+          "Fixed footstep audio (when tilting the head and on several materials)",
+          "Fixed kill volumes in Silo (replaced with black vision volume - if you clip inside of a wall, you won\u2019t be able to see. This will prevent death from hands clipping through the wall when climbing)",
+          "Fixed helmets visually duplicating in generator room",
+          "Fixed Matka underground metal detector sound only playing locally (everyone will hear it now)",
+          "Improved footsteps audio (new footstep sounds)",
+          "Balanced mission \u201cComm silence\u201d from Shiro : removed the USB stick requirement (note that if you have the mission active, you need to abandon it and take it back to update it)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.0.6315.35560",
+    "date": "2024-12-20",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.9.0 Hotfix #3)",
+        "items": [
+          "Fixed the footsteps playing in the player origin location instead of where the player is in their play space",
+          "Fixed the main kiosk terminal not tracking the mission Secrets in the pages from Hana",
+          "Fixed a condition where the player would respawn/spawn in their bunker with 25% of health (after dying or extracting)",
+          "Fixed Mall vault loot",
+          "Increased the korunas % for quick sell (sell all) on the trading terminal (it will now provide more korunas than before if you don't mind who your are selling to)",
+          "Changed the mission Weapon cache from Sean, from collecting 5 SKS on Matka Miest to collecting 5 bizon on Matka Miest Note that if you currently have the mission, you have to cancel it and take it again in order to update it to the Bizon instead of the SKS."
+        ]
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": [
+          "Your own footsteps may sound louder in one ear if you tilt your head (we are looking into that)",
+          "Abandoning raid can still result in you spawning in bunker with only a portion of your health"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.0.6304.35530",
+    "date": "2024-12-19",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.9.0 Hotfix #2)",
+        "items": [
+          "Adjusted the NPCs",
+          "Fixed mall map loot (you should see more loot now)",
+          "Fixed Takistan sun growing too fast",
+          "Fixed locate POIs mission being inconsistent/not always working",
+          "Fixed storing items in maintenance room before you unlock it, the save area is not available until you unlock it",
+          "Fixed a crash when performing the missions for Rips (battery in water at docks)",
+          "Fixed PvE not having airdrops (currently only for 2+ players as it requires a dedicated server in order to spawn)",
+          "Fixed the cat not moving",
+          "Reimplemented the abandon button"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.0.6294.35468",
+    "date": "2024-12-18",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.9.0 Hotfix #1)",
+        "items": [
+          "Adjusted NPCs line of sight",
+          "Adjusted NPCs reaction time (increase it to make it easier to kill them when you see them first)",
+          "Fixed incorrect loading screen on \u201cwaiting for players\u201d"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.9.0.6288.35434",
+    "date": "2024-12-18",
+    "sections": [
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2728Key highlights\u2728",
+        "items": [
+          "Added new map : Chodov mall",
+          "Added a new mission system (over 135 missions and 300 repeatable tasks are now available for a more varied everyday experience.)",
+          "Added solo PvE game mode (Separate progression from PvPvE. The PvE mode takes full advantage of the new mission system and refactored AI. Solo mode is a core-free update. To squad up, see Team Tactics information below.)",
+          "Added new weapon : MCX Spear",
+          "Added item skin system (free exclusive holiday-themed skin to claim before January 2nd)",
+          "Refactored the NPCs (to enhance your PvE and PvPvE experience, NPCs are now smarter and deadlier)",
+          "Many bug fixes and user experience improvements including preventing items from falling through the map, full list bellow"
+        ]
+      },
+      {
+        "name": "\ud83c\udf1fOptional paid DLCs\ud83c\udf1f",
+        "items": [
+          "Added Team tactics DLC (optional DLC allowing you to invite friends to your squad on the PvE game mode. Note that only the squad leader needs to own the DLC. Includes 3 skins and 3 charms)",
+          "Added Camo pack DLC (3 different camos patterns)",
+          "Added a unique charm to each of the higher tier game edition (Founding Father, Independence Edition and Nuclear Night)",
+          "Expanded the content for the 1shot DLC (One new 1shot consumable, 2 new gun skins and 1 charm)"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added new mission system (over 135 missions and 300 repeatable tasks)",
+          "Added new map : Chodov mall",
+          "Added PvE mode (Solo mode is free for everyone. To squad up, the squad leader require the DLC - includes charms and skins for both PvE and PvPvE modes)",
+          "Added new Weapon : MCX Spear",
+          "Added weapon skins (Note that the following items will now be skins applied on items instead of market items : UWU pack, Steam GOTY deagle, Nuclear night M4, Founding father AK alpha and One shot M4. You will still receive one of each at wipe)",
+          "Added name reservation through wipes",
+          "Added wipe reward (Santa hat)",
+          "Added Charms for game editions",
+          "Added Christmas theme to the bunker",
+          "Added OWO vest integration",
+          "Expanded the content of the 1shot DLC (DLC - included in the 1Shot DLC - no need to claim again)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed several locations where items would be stuck under the visible mesh when dropped",
+          "Fixed an issue where items would fall through the map (may still happen in specific edge cases)",
+          "Fixed some Matka Miest exploits",
+          "Fixed a crash related to teleport behaviors",
+          "Fixed a crash related to distance grab",
+          "Fixed kill distance calculation",
+          "Fixed various issues with audio occlusion",
+          "Fixed some visuals and text issue on loading screens",
+          "Fixed knife kills not showing on end screen",
+          "Fixed a condition where the ammo loader would lose count of bullets",
+          "Fixed an issue where taking the magazine/box from the reloader before it was done loading created a desync",
+          "Fixed an issue showing no ammo in the ammo loader",
+          "Fixed scopes rendering sideway when put on side rail",
+          "Fixed a bug where shotgun ammo box would drop rows of 4 instead of 5",
+          "Improved spawning location on several maps (to minimize the chances of spawning too close from other players or NPCs)",
+          "Improved loot rarity",
+          "Improved sounds in the market",
+          "Improved sounds in the bunker",
+          "Removed the abandon button from the menu",
+          "Refactored the NPC AI: smarter, deadlier",
+          "Rebalanced AP - only found in raid now",
+          "Rebalanced the market (prices, availability and accessibility/rep requirement)",
+          "Rebalanced the consumables",
+          "Rebalanced night loot (more loot when the sun is down!)",
+          "Updated loading images on all maps"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": [
+          "Fixed the kill volume near the purple vault"
+        ]
+      },
+      {
+        "name": "Silo",
+        "items": [
+          "Fixed the \u201ckilling ladder\u201d in Silo by tuning the kill volume",
+          "Fixed bullets only going through stairs one way on Silo"
+        ]
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": [
+          "Waiting for player loading screen may show the previously played map",
+          "DO NOT save items in the drawers of maintenance before unlocking that room. The room is unlocked by default due to the new skin system, but the drawers appear even if not available yet.",
+          "The cat does not get out of bed - holidays are hard"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.8.1.5936.32315",
+    "date": "2024-10-23",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.8.1 Hotfix #2)",
+        "items": [
+          "Fixed an issue with the bunker manager that would sometimes not correctly perform the request (ex: putting a gun on the gun wall, but it still came in raid with you)",
+          "Fixed an issue where players would be stuck in the safe house loading screen if they had an invalid item in the bunker"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.8.1.5897.31764",
+    "date": "2024-10-14",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.8.1 Hotfix #2)",
+        "items": [
+          "Fixed PCVR getting stuck on a black screen/loading when joining a level",
+          "Fixed NRS pouch vanishing from the armor after the player was killed",
+          "Fixed an issue where the player could clip through a wall in Museum - Matka Miest",
+          "Fixed an issue with VOIP menu settings not saving through level travel",
+          "Fixed an issue with VOIP where players would be very loud for the first few seconds",
+          "Fixed a crash with VOIP",
+          "Fixed a crash with the new \"found in raid\" watch mechanic"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.8.1.5872.31458",
+    "date": "2024-10-03",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.8.1 Hotfix #1)",
+        "items": [
+          "Fixed a bug where shotguns impact would cancel other sounds",
+          "Fixed the height calibration menu popping up on level travel",
+          "Fixed an issue where the height calibration would prevent the user from seeing the reconnect menu",
+          "Reverted the changes to AP access"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.8.1.5856.31334",
+    "date": "2024-10-02",
+    "sections": [
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added gun charms",
+          "Added NRS pouch",
+          "Added a pistol pouch module for vests",
+          "Added two new songs to the market (replacing two songs)",
+          "Added the 590A1 shotgun",
+          "Added back turn-in missions",
+          "Added new spawning logic to wait for the player's loadout to spawn before unfading (waiting for players screen to spawn people at approximately the same time - may take a bit longer than previously to spawn for some users)",
+          "Switched missions from local saves to backend saves"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed screen going black when reconnecting (PCVR)",
+          "Fixed spawning inside walls (potential fix)",
+          "Fixed the AK side rail clipping in the iron sight on the AK-74U",
+          "Fixed an issue where the users were able to turn FMJ into AP",
+          "Fixed a few items that were making the backpack spin",
+          "Fixed some items missing wall hangers on the gun wall",
+          "Fixed a crash that would happen when spamming Deploy and Abort",
+          "Fixed an issue where the side rail of the Founding Father AK could not receive attachments",
+          "Fixed the position of the front hand on the P90",
+          "Fixed the ammo cost not showing correctly on the kiosk",
+          "Fixed an issue where doors were showing closed despite being open when very far away",
+          "Fixed the default position of the compass being too low",
+          "Fixed a bug where the geartech backpack would not save the gunslot if the weapon inside was put there by another player",
+          "Fixed moving grenades and guns going through walls",
+          "Fixed DLC weapon\u2019s magazines being empty",
+          "Fixed some issues with the bunker cat",
+          "Fixed an issue where the back door of the church was closed at night even if the cultist wasn\u2019t there",
+          "Fixed an exploit with NVGs",
+          "Fixed an issue where the ammo loader would show the previous ammo type even when unloaded",
+          "Fixed a typo on the Saiga drum mag",
+          "Fixed an issue where some magazine would not correctly save rotations on shelves when stored",
+          "Fixed a z-fighting issue on bullets inside of magazines when they were outside of saving zones",
+          "Fixed an issue where 9mm could be loaded in USP 45 magazines",
+          "Fixed an issue where the backpack would turn red",
+          "Fixed helmets not initializing correctly with streamer cam on",
+          "Fixed an issue where the M4 and Scar iron sights would go back up when interacting with other attachments while having a sight",
+          "Fixed an issue where grenade would sometimes ignore armors",
+          "Balanced backpack base weights",
+          "Balanced grenades radius and damage",
+          "Balanced AP (Jiri no longer sells it, Shiro level requirement was increased by 1)",
+          "Improve grabbing point of the Krtek helmet",
+          "Improved the grabbing area of the LMG suppressor and Barrett in the market"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Matka Miest Underground",
+        "items": [
+          "Fixed an entrance that was making the screen goes black when stepping in"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.8.0.5716.30071",
+    "date": "2024-09-04",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.8.0 Hotfix #4)",
+        "items": [
+          "Added an opt out 90FPS menu/Go back to 72FPS (Settings, game, the very last setting) Meta Quest only",
+          "Improved networking",
+          "Fixed VOIP initializing at 1.0 instead of user volume settings",
+          "Fixed players joining server too early"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.8.0.5643.29477",
+    "date": "2024-08-20",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.8.0 Hotfix #3)",
+        "items": [
+          "Fixed a crash related to the audio system",
+          "Fixed an issue where the voice chat state didn't save on level travel (voice chat channel)",
+          "Fixed an issue where squad voice chat was not working when loading in raid",
+          "Improved reliability of the contact tab to lower the chances of seeing an online friend as offline"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.8.0.5592.28892",
+    "date": "2024-08-07",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.8.0 Hotfix #2)",
+        "items": [
+          "Fixed an issue where servers were not working properly (matchmaking issues)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.8.0.5592.28715",
+    "date": "2024-08-07",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.8.0 Hotfix #1)",
+        "items": [
+          "Fixed a crash related to audio (highest crash reason in the past few days)",
+          "Fixed the watch compass pointing in the wrong direction"
+        ]
+      },
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Bunker",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": []
+      },
+      {
+        "name": "Matka Miest",
+        "items": []
+      },
+      {
+        "name": "Silo",
+        "items": []
+      },
+      {
+        "name": "Tutorial level",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.7.3 Hotfix #4)",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.7.3 Hotfix #3)",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.7.3 Hotfix #2)",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b (0.7.3 Hotfix #1)",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Reworked attachments (visible hologram to show where the item can be applied)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed the Ruger mk IV bottom rail"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": []
+      },
+      {
+        "name": "Matka Miest Underground",
+        "items": []
+      },
+      {
+        "name": "Silo",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Improved bHaptics support (new haptics patterns and supporting more devices/arms and head)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed several issues with the ammo loader",
+          "Fixed FAMAS fire selector position on firing modes"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Matka Miest",
+        "items": []
+      },
+      {
+        "name": "Silo",
+        "items": [
+          "Fixed kill volume in purple keycard room killing players"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Security improvements"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fix for some server crashes"
+        ]
+      },
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added BattlEye (replacing Easy anti cheat)",
+          "Added new arms IK (fixing a crash related to the old IK)",
+          "Added velocity drop when using silencers (Silencers will reduce velocity and increase the \u201cbullet drop\u201d)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "Note for PCVR users:",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed the invisible shelf over the ammo loader (removed it)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed competing players spawning at the same spawn"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.7.0.4804.23956",
+    "date": "2024-03-20",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed the game size on PCVR (it was larger than it should have been)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed loot XP value being stuck at 120 XP",
+          "Fixed vests not saving on shelves",
+          "Fixed the feet IK trace not hitting some surfaces (legs going through floor)",
+          "Fixed the P90 dealing damage to the owner\u2019s front hand when shooting"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed the kill volume in Matka underground training (when going down the stairs to the old bunker)"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added a timer before extraction points become available",
+          "Changed the energy drink texture"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Changed to color of ammo crafting powder jar to match the tip colors",
+          "Fixed MP5 and UMP ejected round location",
+          "Fixed a few magazines that were not working with hand loading/manually putting bullets in",
+          "Fixed a crash when abandoning raid on IoT night"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed placeholder text in DLC prices",
+          "Fixed a crash when moving the sliders (Screen effect height and width) during the profile creation"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Removed smoke grenades temporarily due to performance issues (they are being worked on)",
+          "Attempt to fix the Krtek boss weapon to be the right one",
+          "Fixed stabbing the sand on island of Tabor resulting in an out of body experience",
+          "Fixed an issue with the MP5 where it was possible to shoot with the handle locked",
+          "Fixed an issue where the selling kiosk would not separate the used NRS from the full NRS",
+          "Fixed an issue where players could hold their weapons post death (during death screen) to prevent others from grabbing it"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed UWU gear and armor to reflect Minty trader level instead of Spectre"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed Krtek guards spawning with too many guards",
+          "Fixed proximity chat where you could hear dead players in some cases",
+          "Fixed grabbing two plants shortly after each other breaking the garden state",
+          "Fixed turn in missions",
+          "Fixed angled grip not saving when flipped sides",
+          "Fixed AK alpha hand pose on charging handle",
+          "Fixed an issue where players would see the name of a squad member as a duplicate or another member of the squad",
+          "Fixed grip location being in the wrong place on medical machines",
+          "Fixed bandages not disappearing in safe house and tutorial",
+          "Optimized scopes on Quest (preloading)"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": [
+          "Added logic to the cellar in church of fish (now closed unless the boss is there)"
+        ]
+      },
+      {
+        "name": "Market",
+        "items": [
+          "Added clarity to the store items when they aren\u2019t available (trader levels, not owned, \u2026)"
+        ]
+      },
+      {
+        "name": "Tutorial",
+        "items": [
+          "Added mag palming tutorial"
+        ]
+      },
+      {
+        "name": "VOIP Update",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Resolved issue with players getting stuck in crates."
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed not being able to grab items in loot crates sometimes"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed the game not being VR Game of the Year yet (we are now)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed all grabbed gear in the bunker from teleporting into the kiosk",
+          "Possibly improved Performance"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Resolved a critical issue causing the game to crash when using bandages. Players can now heal without encountering crashes.",
+          "Fixed Mac10 strap issues, ensuring proper attachment and functionality.",
+          "Fixed material changes on guns and magazines for visual consistency and realism.",
+          "Improved VR gameplay with enhanced gunstock calibration.",
+          "Added subtle lighting to enhance the visibility of loot box contents."
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": [
+          "Addressed vertical sound issues in labs."
+        ]
+      },
+      {
+        "name": "Matka Miest",
+        "items": []
+      },
+      {
+        "name": "Safe house",
+        "items": [
+          "Fixed multiple backend issues with water consumptions, fuel consumption and plant growths.",
+          "Changed NRS amount crafted from plant product"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed game server shutting down before finishing backend communication"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fix a cause for servers shutting down mid-raid",
+          "Fix an issue with backend kiosk weight calculation going negative"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      }
+    ]
+  },
+  {
+    "version": "0.6.3988.19699",
+    "date": "2023-11-14",
+    "sections": [
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Character XP was increased by 300%.",
+          "Added arms patches"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Improved melee"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": [
+          "Safe house"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed shooting blood splatters would damage the owner"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added bandages"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed volume slider not affecting guns",
+          "Fixed squad issue where two users would invite each other, one would accept and the other would have a persistent invite stuck.",
+          "Optimized ragdoll performances"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": []
+      },
+      {
+        "name": "Silo",
+        "items": [
+          "Optimized the culling distances"
+        ]
+      },
+      {
+        "name": "Safe House",
+        "items": [
+          "Removed the TV"
+        ]
+      },
+      {
+        "name": "Tutorial Level",
+        "items": [
+          "Redesign of how tutorial looks"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fix One Shot physics glitch when grabbing one shot stick out of One Shot box",
+          "Fix issue where player could grab a One Shot chew and then be unable to grab any more one shot chew even though they're were still One Shot chews in stick"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed crash related to the water station",
+          "Fixed crash due to the main terminal (from switching tabs)",
+          "Fixed the loot not spawning in training mode"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "island of Tabor",
+        "items": []
+      },
+      {
+        "name": "Safe house",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": [
+          "Fixed One Shot Boxes not being grabbable from terminal"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added a new UI to the main terminal"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed night force scope not showing when trying to receive it"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": [
+          "Fixed the underground parking spawn taking too long"
+        ]
+      },
+      {
+        "name": "Silo",
+        "items": []
+      },
+      {
+        "name": "Safe house",
+        "items": [
+          "Reworked lighting"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Safe house",
+        "items": []
+      },
+      {
+        "name": "Island of Tabor",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed being able to put attachment on the AK without a rail",
+          "Fixed every gun's selector activating when opening a room in the safe house (no more clicks!)"
+        ]
+      },
+      {
+        "name": "Balancing",
+        "items": []
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added graphics settings for resolution quality (PCVR)"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed magazine reloader"
+        ]
+      },
+      {
+        "name": "\ud83d\udee0\ufe0fMaps fixes\ud83d\udee0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "'''Safe house'''",
+        "items": []
+      },
+      {
+        "name": "'''Island of Tabor'''",
+        "items": [
+          "Fixed a hole in the map near lab"
+        ]
+      },
+      {
+        "name": "'''Tutorial level'''",
+        "items": [
+          "Reintroduced orange keycards and they now unlock special extract point",
+          "Adjusted NPC's so they take time to aim before shooting"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "Removed",
+        "items": []
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Added more Fenix weapons",
+          "Fixed applying custom graphics settings"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed invisible hole in Island of Tabor (could fall off map)",
+          "Fixed Thompson material",
+          "Fixed triggers needing to be pressed way hard for it to register fire or grip"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "OPEN VR UPDATE -> No more needing to select correct OpenXR Runtime, Virtual desktop now works better",
+          "Turning deadzone settings"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fix If you put a mag into pouch and take it out really fast it will be invisible for some people",
+          "Fix not dying when raid timer was up",
+          "Fix IoT rock can see under it and shoot players from there",
+          "Fix lots of backpack spinning issues",
+          "Fix helmet attachment exploits",
+          "Fix for Virtual desktop performance issues"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "Disabled selling purple key cards. They will be deleted when you try to sell them"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added SG552 (gun) in game"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed vector buttstock issue",
+          "Fixed hunger sound playing between the ears instead of belly"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": []
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added fallback in case loadout never saves and player is stuck in \"ghost mode\" while extracting - temp fix, after 20 seconds extract to safe house"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed stamina not decreasing"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "Improved weapon physics/recoil"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed armor save exploit in Tabor Market and tutorial"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "Improved grips"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed NERDS going into the same arm you're holding it with",
+          "Fixed low health heartbeat sound playing only once",
+          "Fixed being unable to put items on a gun wall if you have a backpack in your other hand",
+          "Fixed several miscellaneous bugs and optimization issues"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "Fixed",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "Removed",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed backpacks disappearing in certain situations",
+          "Fixed some inconsistencies with grenade damage",
+          "Fixed infinite eating bug",
+          "Fixed on-screen blood effect being too intense when going into raid with slightly lower than 100% health"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "Improved handling of items in backpack - stop the backpack from tipping over when moving loot around",
+          "Adjusted loot spawn rarities"
+        ]
+      },
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed drawers in the Personal Bunker not moving items with them",
+          "Fixed bug where heavily customized guns were not sold correctly"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "Improved performance in the Personal Bunker",
+          "Adjusted trade rewards"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed various map issues on Island of Tabor",
+          "Fixed falling through the world on spawn"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "Changed",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed major performance issue on Island of Tabor"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bHotfix\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "Fixed",
+        "items": [
+          "Fixed save areas changing the size of stored objects"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added M16A2",
+          "Added OP SKS"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed hands glitching and positions being off"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "Adjusted Island of Tabor AI positions",
+          "Adjusted AK74 recoil",
+          "Improved gun shot audio to be heard from larger distances"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "Improved texture memory usage for Quest standalone"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": [
+          "Added character wipe option in profile menu"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed Armor modules and weapon attachments flying all over the place when attaching",
+          "Fixed more edge cases causing Equipment to fall through world.",
+          "Fixed trader level up requiring 1 more XP than the requirement listed"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "Improved model quality for desktop on Missile Silo, loot boxes and other safehouse elements"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed stacking multiple items inside each other in storage lockers",
+          "Fixed various issues with doors"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed items not persisting in inventories"
+        ]
+      },
+      {
+        "name": "\u2795New Features\u2795",
+        "items": []
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed breakable glass not showing at a distance",
+          "Fixed (potentially) magazines not spawning in",
+          "Fixed Windows Mixed Reality gripping issues"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": []
+      },
+      {
+        "name": "Added",
+        "items": []
+      },
+      {
+        "name": "Removed",
+        "items": []
+      },
+      {
+        "name": "Fixed",
+        "items": [
+          "Fixed tracer rounds",
+          "Magazines falling through the world / disappearing"
+        ]
+      },
+      {
+        "name": "Changed",
+        "items": []
+      },
+      {
+        "name": "Added",
+        "items": []
+      },
+      {
+        "name": "Removed",
+        "items": []
+      },
+      {
+        "name": "Fixed",
+        "items": []
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "Improved kiosk terminals interaction in market",
+          "Optimized performance for retrieving items from backend"
+        ]
+      },
+      {
+        "name": "Added",
+        "items": []
+      },
+      {
+        "name": "Changed",
+        "items": [
+          "VOIP temporarily disabled",
+          "Round 2 of Closed Alpha testers gained access (100 people)"
+        ]
+      }
+    ]
+  }
+]
