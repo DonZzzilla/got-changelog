@@ -5,7 +5,14 @@
   <link>https://github.com/DonZzzilla/got-changelog</link>
   <description>Full patch history with build numbers</description>
   <language>en</language>
-  <lastBuildDate>Thu, 04 Jun 2026 00:38:05 -0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 00:40:05 -0000</lastBuildDate>
+  <item>
+    <title>0.13.0.8860.63875 (2026-06-03)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(Hotfix #5)</strong><br>&amp;bull; Potentially fixed NaN issue (unable to grab items, it was also causing crashes) - we will keep our eyes on reports and metrics to confirm if it fixed it entirely or partially<br>&amp;bull; Fixed grip priority in backpack (improved behaviors when grabbing objects near another one - yes, folded armor included!)<br>&amp;bull; Fixed backpack spinning (if you run into an issue, please report it)<br>&amp;bull; Fixed items saved in saving areas disappearing intermittently<br>&amp;bull; Fixed an exploit that was boosting players upwards using car trunks]]></description>
+    <pubDate>Wed, 03 Jun 2026 07:00:00 -0000</pubDate>
+    <guid>got-0-13-0-8860-63875</guid>
+  </item>
   <item>
     <title>0.13.0.8808.63144 (2026-05-18)</title>
     <link>https://got.miraheze.org/wiki/Changelog</link>
@@ -348,13 +355,6 @@
     <description><![CDATA[<strong>✨Key features✨</strong><br>&amp;bull; Time to kill (TTK) adjustment (faster)<br>&amp;bull; OPK-7 offset fix<br><strong>➕New features➕</strong><br>&amp;bull; Added NVG slot to the Ronin helmet<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.0 Hotfix #3)</strong><br>&amp;bull; Fixed MP5k sight being too high<br>&amp;bull; Fixed OPK-7 offset<br>&amp;bull; Fixed the ability to run max speed while sitting down<br>&amp;bull; Fixed the fact that you could jump while sitting down<br>&amp;bull; Fixed the fact that you could crouch while sitting down]]></description>
     <pubDate>Thu, 24 Apr 2025 07:00:00 -0000</pubDate>
     <guid>got-0-10-0-6923-40485</guid>
-  </item>
-  <item>
-    <title>0.0.6896.40237 (2025-04-18)</title>
-    <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.10.0 Hotfix #2)</strong><br>&amp;bull; Fixed magazines spawning near empty in raid (will now spawn with at least 1/3 of ammo)<br>&amp;bull; Fixed rations spawning with non-full magazines<br>&amp;bull; Fixed invincibility exploit<br>&amp;bull; Fixed low level players queue not working (it was putting everyone in together)<br>&amp;bull; Fixed Promedol box having fake syringes when being returned from the selling conveyor]]></description>
-    <pubDate>Fri, 18 Apr 2025 07:00:00 -0000</pubDate>
-    <guid>got-0-0-6896-40237</guid>
   </item>
 </channel>
 </rss>

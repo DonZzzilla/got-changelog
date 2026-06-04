@@ -1,5 +1,35 @@
 [
   {
+    "version": "0.13.0.8860.63875",
+    "date": "2026-06-03",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(Hotfix #5)",
+        "items": [
+          "Potentially fixed NaN issue (unable to grab items, it was also causing crashes) - we will keep our eyes on reports and metrics to confirm if it fixed it entirely or partially",
+          "Fixed grip priority in backpack (improved behaviors when grabbing objects near another one - yes, folded armor included!)",
+          "Fixed backpack spinning (if you run into an issue, please report it)",
+          "Fixed items saved in saving areas disappearing intermittently",
+          "Fixed an exploit that was boosting players upwards using car trunks",
+          "Fixed an exploit with flares being fired multiple times",
+          "Fixed an exploit where folded armors could be saved inside of other items",
+          "Fixed the issue where users could equip the ear pros while wearing incompatible helmets (they cannot anymore)",
+          "Fixed a crash related to the 1Shot chew bag",
+          "Fixed the .44 ammo penetration value (FMJ and AP)",
+          "Fixed the issue where users would save helmets in safe containers (they cannot anymore)",
+          "Fixed armor module falling down through the world",
+          "Fixed folded glasses and folded helmets falling through the world after taking out of backpacks",
+          "Fixed an issue where the market UI would not update the available items quantity after purchasing",
+          "Fixed earpros floating in the air after taking them out of the backpack",
+          "Fixed a case where users would be unable to remove pouches from an armor after removing it from the backpack",
+          "Fixed backpack hitching against collision while running",
+          "Fixed a typo in the stats page (from \u201cFelix killstreak\u201d to \u201cFenix killstreak\u201d",
+          "Removed NRS screen effects (there won\u2019t be screen effects anymore when using various NRS types)"
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.13.0.8808.63144",
     "date": "2026-05-18",
     "sections": [
