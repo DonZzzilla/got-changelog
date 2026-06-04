@@ -5,7 +5,7 @@
   <link>https://github.com/DonZzzilla/got-changelog</link>
   <description>Full patch history with build numbers</description>
   <language>en</language>
-  <lastBuildDate>Thu, 04 Jun 2026 04:59:52 -0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 05:13:31 -0000</lastBuildDate>
   <item>
     <title>0.13.0.8862.63913 (2026-06-03)</title>
     <link>https://got.miraheze.org/wiki/Changelog</link>
@@ -16,7 +16,7 @@
   <item>
     <title>0.13.0.8860.63875 (2026-06-03)</title>
     <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(Hotfix #5)</strong><br>&amp;bull; Potentially fixed NaN issue (unable to grab items, it was also causing crashes) - we will keep our eyes on reports and metrics to confirm if it fixed it entirely or partially<br>&amp;bull; Fixed grip priority in backpack (improved behaviors when grabbing objects near another one - yes, folded armor included!)<br>&amp;bull; Fixed backpack spinning (if you run into an issue, please report it)<br>&amp;bull; Fixed items saved in saving areas disappearing intermittently<br>&amp;bull; Fixed an exploit that was boosting players upwards using car trunks]]></description>
     <pubDate>Wed, 03 Jun 2026 07:00:00 -0000</pubDate>
     <guid>got-0-13-0-8860-63875</guid>
   </item>
