@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.13.0.8866.63918",
+    "date": "2026-06-03",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(Hotfix #7)",
+        "items": [
+          "Fixed certain items allowing backpacks to rotate uncontrollably."
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.13.0.8862.63913",
     "date": "2026-06-03",
     "sections": [

@@ -5,7 +5,14 @@
   <link>https://github.com/DonZzzilla/got-changelog</link>
   <description>Full patch history with build numbers</description>
   <language>en</language>
-  <lastBuildDate>Thu, 04 Jun 2026 06:36:49 -0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 16:38:31 -0000</lastBuildDate>
+  <item>
+    <title>0.13.0.8866.63918 (2026-06-03)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(Hotfix #7)</strong><br>&amp;bull; Fixed certain items allowing backpacks to rotate uncontrollably.]]></description>
+    <pubDate>Wed, 03 Jun 2026 07:00:00 -0000</pubDate>
+    <guid>got-0-13-0-8866-63918</guid>
+  </item>
   <item>
     <title>0.13.0.8862.63913 (2026-06-03)</title>
     <link>https://got.miraheze.org/wiki/Changelog</link>
@@ -348,13 +355,6 @@
     <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Swapped Glitch energy drink for Chernobyl drinks<br><strong>🐛Bug fixes &amp; improvements🐛(0.10 Hotfix #5)</strong><br>&amp;bull; Fixed XM250 exploit<br>&amp;bull; Fixed M249 sound playing across the map when using a suppressor<br>&amp;bull; Fixed bullets not being able to be gripped when inside of a container (mag, boxes, …)<br>&amp;bull; Fixed the option to buy empty mags not working in market<br>&amp;bull; Fixed the Taran tactical G34 not accepting Glock 33rd magazine]]></description>
     <pubDate>Wed, 07 May 2025 07:00:00 -0000</pubDate>
     <guid>got-0-10-1-6964-40879</guid>
-  </item>
-  <item>
-    <title>0.10.1.6948.40705 (2025-04-30)</title>
-    <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added a full auto Glock<br>&amp;bull; Added the dominator helmet<br>&amp;bull; Added a region selector<br><strong>🐛Bug fixes &amp; improvements🐛(0.10 Hotfix #4)</strong><br>&amp;bull; Fixed helmets dropping very high after getting killed<br>&amp;bull; Fixed getting shot by Fenix on Matka Underground before being spawned<br>&amp;bull; Fixed the damage screen overlay disappearing when opening and closing the menu in raid<br>&amp;bull; Fixed screen calibration not saving (compass)<br>&amp;bull; Fixed health system being visually stuck at 84% in some case]]></description>
-    <pubDate>Wed, 30 Apr 2025 07:00:00 -0000</pubDate>
-    <guid>got-0-10-1-6948-40705</guid>
   </item>
 </channel>
 </rss>
