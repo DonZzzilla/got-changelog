@@ -1,5 +1,36 @@
 [
   {
+    "version": "0.13.0.8910.64491",
+    "date": "2026-06-18",
+    "sections": [
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added Hell let loose helmet skin (applied on the SSH-68)",
+          "Added Hell let loose clothing (full WW2 inspired outfit)",
+          "Added new bolt action weapon: Kar-98 with fixed scope",
+          "Added a new caliber for the Kar-98 (7.92x57mm)",
+          "Added new SMG weapon: M3A1"
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed weapons getting stuck on the backpack weapon slot",
+          "Fixed healing sound queue played across the map",
+          "Fixed Splinter cell NVGs breaking when removing helmet",
+          "Fixed held weapon not dealing damage after reconnecting",
+          "Fixed items from bunker interacting with market items (they should not be able to)",
+          "Fixed several edge cases making backpacks rotate",
+          "Fixed missing error when purchasing favorites failed",
+          "Fixed the whiteboard left portion not being erasable",
+          "Fixed pristine Nikolai figurine not spawning",
+          "Fixed a weapon preview issue when storing weapons on the gun wall"
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.13.0.8866.63918",
     "date": "2026-06-03",
     "sections": [
