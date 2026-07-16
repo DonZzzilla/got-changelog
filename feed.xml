@@ -5,7 +5,14 @@
   <link>https://github.com/DonZzzilla/got-changelog</link>
   <description>Full patch history with build numbers</description>
   <language>en</language>
-  <lastBuildDate>Thu, 18 Jun 2026 21:36:08 -0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 11:28:58 -0000</lastBuildDate>
+  <item>
+    <title>0.13.0.8989.65165 (2026-07-13)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(Hotfix #1)</strong><br>&amp;bull; Added server-side monitoring to detect and flag abnormal network behavior patterns commonly associated with connection manipulation<br>&amp;bull; Added a new charm (remove PDF)<br>&amp;bull; Removed all association with Tactical Assault]]></description>
+    <pubDate>Mon, 13 Jul 2026 07:00:00 -0000</pubDate>
+    <guid>got-0-13-0-8989-65165</guid>
+  </item>
   <item>
     <title>0.13.0.8910.64491 (2026-06-18)</title>
     <link>https://got.miraheze.org/wiki/Changelog</link>
@@ -348,13 +355,6 @@
     <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added NPC armor (NPCs have a chance to spawn with armor)<br>&amp;bull; Added secure container (unlocked through missions)<br>&amp;bull; Added IdentX tags (dog tags) dropping when a player gets killed<br>&amp;bull; Added the independence edition M4 + stanag regular and drum mag skin<br>&amp;bull; Added an optional Skin DLC for secure container (secure container not included)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10 Hotfix #7)</strong><br>&amp;bull; Fixed magazine falling through the map on guns found in raid<br>&amp;bull; Fixed vent sound playing through the map in Island of Tabor<br>&amp;bull; Fixed the Aug fire selector being visually broken<br>&amp;bull; Fixed the CX8 storm fire selector being visually broken<br>&amp;bull; Fixed a mall spawn that could make you fall through the map]]></description>
     <pubDate>Fri, 16 May 2025 07:00:00 -0000</pubDate>
     <guid>got-0-10-1-7019-41201</guid>
-  </item>
-  <item>
-    <title>0.10.1.6976.40952 (2025-05-08)</title>
-    <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added adaptive triggers on PS VR2<br><strong>🐛Bug fixes &amp; improvements🐛(0.10 Hotfix #6)</strong><br>&amp;bull; Fixed helmets not being grippable after killing a player<br>&amp;bull; Fixed a spawn in mall where player could fall through the map]]></description>
-    <pubDate>Thu, 08 May 2025 07:00:00 -0000</pubDate>
-    <guid>got-0-10-1-6976-40952</guid>
   </item>
 </channel>
 </rss>

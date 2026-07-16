@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.13.0.8989.65165",
+    "date": "2026-07-13",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(Hotfix #1)",
+        "items": [
+          "Added server-side monitoring to detect and flag abnormal network behavior patterns commonly associated with connection manipulation",
+          "Added a new charm (remove PDF)",
+          "Removed all association with Tactical Assault"
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.13.0.8910.64491",
     "date": "2026-06-18",
     "sections": [
