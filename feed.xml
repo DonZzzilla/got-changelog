@@ -5,7 +5,14 @@
   <link>https://github.com/DonZzzilla/got-changelog</link>
   <description>Full patch history with build numbers</description>
   <language>en</language>
-  <lastBuildDate>Fri, 17 Jul 2026 18:12:01 -0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 19:17:10 -0000</lastBuildDate>
+  <item>
+    <title>0.13.0.9021.65312 (2026-07-17)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛</strong><br>&amp;bull; Fixed PlayStation VR2 being unable to get into the game<br>&amp;bull; Fixed ration screen being black<br>&amp;bull; Fixed the info system not working<br>&amp;bull; Improved Steam freezing<br>&amp;bull; Improved anticheat system (Tomahawk)]]></description>
+    <pubDate>Fri, 17 Jul 2026 07:00:00 -0000</pubDate>
+    <guid>got-0-13-0-9021-65312</guid>
+  </item>
   <item>
     <title>0.13.0.8989.65165 (2026-07-13)</title>
     <link>https://got.miraheze.org/wiki/Changelog</link>
@@ -348,13 +355,6 @@
     <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added IdentX container (Sold by Shiro)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #1)</strong><br>&amp;bull; Fixed the blacked out arms offset,<br>&amp;bull; Fixed helmets not saving on shelves,<br>&amp;bull; Fixed chest rigs floating on death (players and Fenix),<br>&amp;bull; Fixed impact grenades not exploding on impact,<br>&amp;bull; Fixed IdentX sometimes falling through the floor,]]></description>
     <pubDate>Thu, 22 May 2025 07:00:00 -0000</pubDate>
     <guid>got-0-10-1-7040-41287</guid>
-  </item>
-  <item>
-    <title>0.10.1.7019.41201 (2025-05-16)</title>
-    <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added NPC armor (NPCs have a chance to spawn with armor)<br>&amp;bull; Added secure container (unlocked through missions)<br>&amp;bull; Added IdentX tags (dog tags) dropping when a player gets killed<br>&amp;bull; Added the independence edition M4 + stanag regular and drum mag skin<br>&amp;bull; Added an optional Skin DLC for secure container (secure container not included)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10 Hotfix #7)</strong><br>&amp;bull; Fixed magazine falling through the map on guns found in raid<br>&amp;bull; Fixed vent sound playing through the map in Island of Tabor<br>&amp;bull; Fixed the Aug fire selector being visually broken<br>&amp;bull; Fixed the CX8 storm fire selector being visually broken<br>&amp;bull; Fixed a mall spawn that could make you fall through the map]]></description>
-    <pubDate>Fri, 16 May 2025 07:00:00 -0000</pubDate>
-    <guid>got-0-10-1-7019-41201</guid>
   </item>
 </channel>
 </rss>

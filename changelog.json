@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.13.0.9021.65312",
+    "date": "2026-07-17",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Fixed PlayStation VR2 being unable to get into the game",
+          "Fixed ration screen being black",
+          "Fixed the info system not working",
+          "Improved Steam freezing",
+          "Improved anticheat system (Tomahawk)"
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.13.0.8989.65165",
     "date": "2026-07-13",
     "sections": [
