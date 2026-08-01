@@ -1,10 +1,24 @@
 [
   {
+    "version": "0.13.0.9033.65367",
+    "date": "2026-07-21",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(Hotfix #3)",
+        "items": [
+          "Fixed an exploit with gunstock calibration and doors",
+          "Improved Steam freezing",
+          "Improved anti-cheat system (Tomahawk)"
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.13.0.9021.65312",
     "date": "2026-07-17",
     "sections": [
       {
-        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(Hotfix #2)",
         "items": [
           "Fixed PlayStation VR2 being unable to get into the game",
           "Fixed ration screen being black",

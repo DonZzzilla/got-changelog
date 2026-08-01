@@ -5,11 +5,18 @@
   <link>https://github.com/DonZzzilla/got-changelog</link>
   <description>Full patch history with build numbers</description>
   <language>en</language>
-  <lastBuildDate>Sat, 01 Aug 2026 05:32:21 -0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 05:37:07 -0000</lastBuildDate>
+  <item>
+    <title>0.13.0.9033.65367 (2026-07-21)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(Hotfix #3)</strong><br>&amp;bull; Fixed an exploit with gunstock calibration and doors<br>&amp;bull; Improved Steam freezing<br>&amp;bull; Improved anti-cheat system (Tomahawk)]]></description>
+    <pubDate>Tue, 21 Jul 2026 07:00:00 -0000</pubDate>
+    <guid>got-0-13-0-9033-65367</guid>
+  </item>
   <item>
     <title>0.13.0.9021.65312 (2026-07-17)</title>
     <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛</strong><br>&amp;bull; Fixed PlayStation VR2 being unable to get into the game<br>&amp;bull; Fixed ration screen being black<br>&amp;bull; Fixed the info system not working<br>&amp;bull; Improved Steam freezing<br>&amp;bull; Improved anticheat system (Tomahawk)]]></description>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(Hotfix #2)</strong><br>&amp;bull; Fixed PlayStation VR2 being unable to get into the game<br>&amp;bull; Fixed ration screen being black<br>&amp;bull; Fixed the info system not working<br>&amp;bull; Improved Steam freezing<br>&amp;bull; Improved anticheat system (Tomahawk)]]></description>
     <pubDate>Fri, 17 Jul 2026 07:00:00 -0000</pubDate>
     <guid>got-0-13-0-9021-65312</guid>
   </item>
@@ -348,13 +355,6 @@
     <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added pain killer (temporarily remove the effect from blacked out limbs)<br>&amp;bull; Added Epinephrine (temporarily enhance stamina recovery)<br>&amp;bull; Added VigorX (temporarily provide health, reduce weight effect on speed and stamina recovery)<br>&amp;bull; Added PvE difficulties (lower difficulty affect the accuracy of the NPCs and their ability to switch firing mode)<br>&amp;bull; Added a pistol flashlight<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #3)</strong><br>&amp;bull; Fixed an exploit with the adventure backpack<br>&amp;bull; Fixed an exploit with the player IK<br>&amp;bull; Fixed an exploit with a wall on mall<br>&amp;bull; Fixed getting stuck on night island PvE loading<br>&amp;bull; Fixed some skins on the SCAR-L Magazine<br><strong>➕New features➕</strong><br>&amp;bull; Added the FAL (gun)<br>&amp;bull; Added the MDR (gun)<br>&amp;bull; Added the HK416 (gun)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #2)</strong><br>&amp;bull; Fixed IdentX box now showing up on the market<br>&amp;bull; Fixed dog tags fitting into taken slots<br>&amp;bull; Fixed dog tags missing the killer name if the player dies from bleeding, hunger or thirst<br>&amp;bull; Fixed voice chat popping when level traveling even if muted]]></description>
     <pubDate>Wed, 18 Jun 2025 07:00:00 -0000</pubDate>
     <guid>got-0-10-3-7170-42090</guid>
-  </item>
-  <item>
-    <title>0.10.1.7040.41287 (2025-05-22)</title>
-    <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added IdentX container (Sold by Shiro)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #1)</strong><br>&amp;bull; Fixed the blacked out arms offset,<br>&amp;bull; Fixed helmets not saving on shelves,<br>&amp;bull; Fixed chest rigs floating on death (players and Fenix),<br>&amp;bull; Fixed impact grenades not exploding on impact,<br>&amp;bull; Fixed IdentX sometimes falling through the floor,]]></description>
-    <pubDate>Thu, 22 May 2025 07:00:00 -0000</pubDate>
-    <guid>got-0-10-1-7040-41287</guid>
   </item>
 </channel>
 </rss>
