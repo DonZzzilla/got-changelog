@@ -5,7 +5,35 @@
   <link>https://github.com/DonZzzilla/got-changelog</link>
   <description>Full patch history with build numbers</description>
   <language>en</language>
-  <lastBuildDate>Thu, 27 Aug 2026 20:30:44 -0000</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 20:33:17 -0000</lastBuildDate>
+  <item>
+    <title>0.14.0.9184.66750 (2026-08-27)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.14.0 Hotfix #1)</strong><br>&amp;bull; Fixed sprinkler sounds around the bunker<br>&amp;bull; Fixed missing head on streamer cam<br>&amp;bull; Fixed items appearing out of sync when overlapping on two save areas<br>&amp;bull; Fixed ear protection not working with the info panel<br>&amp;bull; Fixed green reflection in the green screen room]]></description>
+    <pubDate>Thu, 27 Aug 2026 07:00:00 -0000</pubDate>
+    <guid>got-0-14-0-9184-66750</guid>
+  </item>
+  <item>
+    <title>0.14.0.9178.66703 (2026-08-27)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(Hotfix #1)</strong><br>&amp;bull; Fixed sprinkler sounds around the bunker<br>&amp;bull; Fixed missing head on streamer cam<br>&amp;bull; Fixed items appearing out of sync when overlapping on two save areas<br>&amp;bull; Fixed ear protection not working with the info panel<br>&amp;bull; Fixed green reflection in the green screen room]]></description>
+    <pubDate>Thu, 27 Aug 2026 07:00:00 -0000</pubDate>
+    <guid>got-0-14-0-9178-66703</guid>
+  </item>
+  <item>
+    <title>0.13.0.9178.66703 (2026-08-26)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>Notes</strong><br>&amp;bull; Boss schedule: PvP mode will start without its bosses. We are slowly introducing them back. Friday (Aug 28), Krtek is coming to the game. Followed by a survey on Discord for the community to decide who’s next!<br>&amp;bull; Progression limit: To provide equal chances, progression has been slowed by locking trader levels 4 and 5. Level 4 will unlock on Friday (Aug 28), and Level 5 will unlock the following Friday (Sept 4). This is a direct response to community feedback regarding maxed players during the first weekend of a wipe.<br>&amp;bull; Platform Note: Please restart your Quest or Pico headset after the patch is applied. On Steam and Meta Link, restart the application. On PlayStation VR 2, restart the PS5.<br>&amp;bull; PlayStation Status: The update is currently pending/stuck on PlayStation. Developers are working to get the PS build out as soon as possible.<br><strong>✨Key features✨</strong><br>&amp;bull; Added a new map - Sazava Valley<br>&amp;bull; Added ammo bundles and mag packing<br>&amp;bull; Added the "Never Wipe" box<br>&amp;bull; Added weather system 2.0<br>&amp;bull; Added back the Hex bunker (including a green room for PCVR content creators)<br><strong>➕New features➕</strong><br>&amp;bull; Added a new map - Sazava Valley<br>&amp;bull; Added Mag Packing: Ability to grab a bundle of ammo and reload magazines. (Grab magazine in one hand, ammo bundle in the other, bring together, grab both, press the bottom button to insert).<br>&amp;bull; Added Ammo Bundles: Crafted with the ammo crafter instead of ammo boxes.<br>&amp;bull; Added Ammo Boxes: Containers to store ammo bundles on shelves.<br>&amp;bull; Added the improved Hex Bunker: Includes a green room for PCVR content creators; use the streamer cam to select the green screen camera.<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>&amp;bull; Balance: Secure containers can no longer include keycards or ammo inside.<br>&amp;bull; Balance: AWM moved to trader level 5.<br>&amp;bull; Balance: Barret is now "found in raid" only.<br>&amp;bull; Fixed a crash related to sling bags (backpacks).<br>&amp;bull; Fixed misaligned visors.<br><strong>⚠️ Known issues ⚠️</strong><br>&amp;bull; Marlin’s side ammo slots cannot be used.<br>&amp;bull; Halloween skin shows too many supported items on the skin terminal.]]></description>
+    <pubDate>Wed, 26 Aug 2026 07:00:00 -0000</pubDate>
+    <guid>got-0-13-0-9178-66703</guid>
+  </item>
+  <item>
+    <title>0.13.0.9100.65838 (2026-08-05)</title>
+    <link>https://got.miraheze.org/wiki/Changelog</link>
+    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(Hotfix #4)</strong><br>&amp;bull; Security Update🔒 (Tomahawk)]]></description>
+    <pubDate>Wed, 05 Aug 2026 07:00:00 -0000</pubDate>
+    <guid>got-0-13-0-9100-65838</guid>
+  </item>
   <item>
     <title>0.13.0.9033.65367 (2026-07-21)</title>
     <link>https://got.miraheze.org/wiki/Changelog</link>
@@ -327,34 +355,6 @@
     <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added foxtrot Zero dropping pistols on death<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>&amp;bull; Fixed light issues on several maps<br>&amp;bull; Fixed Nikolai (shotgun boss) fleeing<br>&amp;bull; Improved AI (NPCs) performance to improve game stability (server crash)]]></description>
     <pubDate>Fri, 25 Jul 2025 07:00:00 -0000</pubDate>
     <guid>got-0-10-5-7411-47721</guid>
-  </item>
-  <item>
-    <title>0.10.5.7395.47623 (2025-07-23)</title>
-    <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>✨Key features✨</strong><br>&amp;bull; Added 2 new bosses (with unique armor kits and weapons) and a new NPC faction<br>&amp;bull; Added voice lines to all bosses<br>&amp;bull; Improved NPCs logic<br>&amp;bull; Many fixes and improvements<br><strong>➕New features➕</strong><br>&amp;bull; Added Zero Foxtrot faction (fighting players and Fenix)<br>&amp;bull; Added Nikolai and Tatra (Foxtrot bosses with new armor kits)<br>&amp;bull; Added NPC limited ammo (they now have physical magazines)<br>&amp;bull; Added NPCs fleeing when out of ammo<br>&amp;bull; Added pouches the NPC to keep their magazines<br><strong>🐛Bug fixes &amp; improvements🐛</strong><br>&amp;bull; Fixed height calibration/player IK breaking when looking down or leaning back<br>&amp;bull; Fixed an exploit that allowed players to shoot through glass and some walls<br>&amp;bull; Fixed an exploit that allowed players to shoot through red key cards room in the mall<br>&amp;bull; Fixed players being able to grab the foregrip<br>&amp;bull; Fixed water filters being wrongfully consumed when using water in the other room (nursery and kitchen)<br><strong>Matka Miest Underground</strong><br>&amp;bull; Fixed a map exploit in museum<br><strong>Chodov Mall</strong><br>&amp;bull; Added a 1Shot kiosk<br>&amp;bull; Fixed a gap in a window<br>&amp;bull; Improved all spawns<br><strong>⚠️ Known issues ⚠️</strong><br>&amp;bull; On Standalone, you may want to play maps once in training to make sure you cache all materials so your performances are better on PvP]]></description>
-    <pubDate>Wed, 23 Jul 2025 07:00:00 -0000</pubDate>
-    <guid>got-0-10-5-7395-47623</guid>
-  </item>
-  <item>
-    <title>0.10.4.7208.42415 (2025-06-25)</title>
-    <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #5)</strong><br>&amp;bull; Fixed an edge case where some players would get stuck in slow walking,]]></description>
-    <pubDate>Wed, 25 Jun 2025 07:00:00 -0000</pubDate>
-    <guid>got-0-10-4-7208-42415</guid>
-  </item>
-  <item>
-    <title>0.10.3.7202.42387 (2025-06-25)</title>
-    <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added sprinting (hold your gun pointing up for a quick, short sprint)<br>&amp;bull; Added fireworks to Matka (night) and IoT (night) (visible on the 4th of July event)<br>&amp;bull; Added a Patriot hat (will be received on the 4th of July event)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #4)</strong><br>&amp;bull; Fixed an exploit using water on IoT<br>&amp;bull; Fixed an exploit on Matka<br>&amp;bull; Fixed a crash with backpacks<br>&amp;bull; Fixed the independent edition skin<br>&amp;bull; Rebalanced armors<br><strong>⚠️ Known issues ⚠️</strong><br>&amp;bull; If you lean back while seated after calibrating, you may have a hard time sprinting.]]></description>
-    <pubDate>Wed, 25 Jun 2025 07:00:00 -0000</pubDate>
-    <guid>got-0-10-3-7202-42387</guid>
-  </item>
-  <item>
-    <title>0.10.3.7170.42090 (2025-06-18)</title>
-    <link>https://got.miraheze.org/wiki/Changelog</link>
-    <description><![CDATA[<strong>➕New features➕</strong><br>&amp;bull; Added pain killer (temporarily remove the effect from blacked out limbs)<br>&amp;bull; Added Epinephrine (temporarily enhance stamina recovery)<br>&amp;bull; Added VigorX (temporarily provide health, reduce weight effect on speed and stamina recovery)<br>&amp;bull; Added PvE difficulties (lower difficulty affect the accuracy of the NPCs and their ability to switch firing mode)<br>&amp;bull; Added a pistol flashlight<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #3)</strong><br>&amp;bull; Fixed an exploit with the adventure backpack<br>&amp;bull; Fixed an exploit with the player IK<br>&amp;bull; Fixed an exploit with a wall on mall<br>&amp;bull; Fixed getting stuck on night island PvE loading<br>&amp;bull; Fixed some skins on the SCAR-L Magazine<br><strong>➕New features➕</strong><br>&amp;bull; Added the FAL (gun)<br>&amp;bull; Added the MDR (gun)<br>&amp;bull; Added the HK416 (gun)<br><strong>🐛Bug fixes &amp; improvements🐛(0.10.1 Hotfix #2)</strong><br>&amp;bull; Fixed IdentX box now showing up on the market<br>&amp;bull; Fixed dog tags fitting into taken slots<br>&amp;bull; Fixed dog tags missing the killer name if the player dies from bleeding, hunger or thirst<br>&amp;bull; Fixed voice chat popping when level traveling even if muted]]></description>
-    <pubDate>Wed, 18 Jun 2025 07:00:00 -0000</pubDate>
-    <guid>got-0-10-3-7170-42090</guid>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,151 @@
 [
   {
+    "version": "0.14.0.9184.66750",
+    "date": "2026-08-27",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(0.14.0 Hotfix #1)",
+        "items": [
+          "Fixed sprinkler sounds around the bunker",
+          "Fixed missing head on streamer cam",
+          "Fixed items appearing out of sync when overlapping on two save areas",
+          "Fixed ear protection not working with the info panel",
+          "Fixed green reflection in the green screen room",
+          "Fixed the mag packing issue with shotguns",
+          "Fixed ammo packing not the Marlin",
+          "Fixed wall bound on valley (map limit)",
+          "Fixed the gel blaster (toy gun) sound having no attenuation",
+          "Fixed the speed rate at which you can load ammo with ammo packing",
+          "Fixed the hand grabbing ammo location while gun is holstered",
+          "Increased backpack storage limit on the Ragnar and the Geartech"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.14.0.9178.66703",
+    "date": "2026-08-27",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(Hotfix #1)",
+        "items": [
+          "Fixed sprinkler sounds around the bunker",
+          "Fixed missing head on streamer cam",
+          "Fixed items appearing out of sync when overlapping on two save areas",
+          "Fixed ear protection not working with the info panel",
+          "Fixed green reflection in the green screen room",
+          "Fixed the mag packing issue with shotguns",
+          "Fixed ammo packing not the Marlin",
+          "Fixed wall bound on valley (map limit)",
+          "Fixed the gel blaster (toy gun) sound having no attenuation",
+          "Fixed the speed rate at which you can load ammo with ammo packing",
+          "Fixed the hand grabbing ammo location while gun is holstered",
+          "Increased backpack storage limit on the Ragnar and the Geartech"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.13.0.9178.66703",
+    "date": "2026-08-26",
+    "sections": [
+      {
+        "name": "Full Wipe \ud83e\uddfb",
+        "items": []
+      },
+      {
+        "name": "Notes",
+        "items": [
+          "Boss schedule: PvP mode will start without its bosses. We are slowly introducing them back. Friday (Aug 28), Krtek is coming to the game. Followed by a survey on Discord for the community to decide who\u2019s next!",
+          "Progression limit: To provide equal chances, progression has been slowed by locking trader levels 4 and 5. Level 4 will unlock on Friday (Aug 28), and Level 5 will unlock the following Friday (Sept 4). This is a direct response to community feedback regarding maxed players during the first weekend of a wipe.",
+          "Platform Note: Please restart your Quest or Pico headset after the patch is applied. On Steam and Meta Link, restart the application. On PlayStation VR 2, restart the PS5.",
+          "PlayStation Status: The update is currently pending/stuck on PlayStation. Developers are working to get the PS build out as soon as possible."
+        ]
+      },
+      {
+        "name": "\u2728Key features\u2728",
+        "items": [
+          "Added a new map - Sazava Valley",
+          "Added ammo bundles and mag packing",
+          "Added the \"Never Wipe\" box",
+          "Added weather system 2.0",
+          "Added back the Hex bunker (including a green room for PCVR content creators)",
+          "Various sound effects improvements",
+          "Added 27 new lootable items (streamer items and valuable items)",
+          "Several quality of life fixes, balancing and improvements!"
+        ]
+      },
+      {
+        "name": "\u2795New features\u2795",
+        "items": [
+          "Added a new map - Sazava Valley",
+          "Added Mag Packing: Ability to grab a bundle of ammo and reload magazines. (Grab magazine in one hand, ammo bundle in the other, bring together, grab both, press the bottom button to insert).",
+          "Added Ammo Bundles: Crafted with the ammo crafter instead of ammo boxes.",
+          "Added Ammo Boxes: Containers to store ammo bundles on shelves.",
+          "Added the improved Hex Bunker: Includes a green room for PCVR content creators; use the streamer cam to select the green screen camera.",
+          "Added the Never Wipe Box.",
+          "Added Weather System 2.0: Visually improved weather conditions and added thunderstorms.",
+          "Added a Blue Keycard.",
+          "Added a Hack Tool Keycard: Has 3 uses to unlock any keycard room.",
+          "Added new gun - M1A SOCOM.",
+          "Added Wipe 10 Reward: M1A SOCOM Gold skin.",
+          "Added back the traders music in the market.",
+          "Added back bunker upgrades.",
+          "Added improved bullet impact VFX.",
+          "Added a \u201cready up\u201d button to the menu.",
+          "Added new streamer items: ScopeOG, 2Cryptic, and Rai of Sunshine sunglasses.",
+          "Added new valuable items:",
+          "Added a new splash screen and loading screen."
+        ]
+      },
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b",
+        "items": [
+          "Balance: Secure containers can no longer include keycards or ammo inside.",
+          "Balance: AWM moved to trader level 5.",
+          "Balance: Barret is now \"found in raid\" only.",
+          "Fixed a crash related to sling bags (backpacks).",
+          "Fixed misaligned visors.",
+          "Fixed containers teleporting when held around a corner.",
+          "Fixed a bug preventing multiple milk items from being stored in the backpack.",
+          "Fixed rations showing \u201cprocessing failed\u201d when claiming after the timer expired.",
+          "Fixed user being unable to cancel tasks on the terminal after claiming.",
+          "Fixed pistol scopes not mounting to the Blicky.",
+          "Fixed PSVR bug preventing reconnection after losing connection in a raid.",
+          "Fixed reflection captures on all maps.",
+          "Fixed Elcan scope being blurry.",
+          "Improved the skin terminal UI.",
+          "Improved most hand sockets in the game (hand position while holding items).",
+          "Improved Marek\u2019s UI: When all upgrades are purchased, it now shows \"all sold.\"",
+          "Improved info panel UI (hold top button while holding an item to spawn the panel).",
+          "Improved sound attenuation from buildings.",
+          "Improved footstep volume, weather sounds, and lighting on all maps.",
+          "Improved colors on Island of Tabor.",
+          "Improved grip priority with folded armors."
+        ]
+      },
+      {
+        "name": "\u26a0\ufe0f Known issues \u26a0\ufe0f",
+        "items": [
+          "Marlin\u2019s side ammo slots cannot be used.",
+          "Halloween skin shows too many supported items on the skin terminal."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "0.13.0.9100.65838",
+    "date": "2026-08-05",
+    "sections": [
+      {
+        "name": "\ud83d\udc1bBug fixes & improvements\ud83d\udc1b(Hotfix #4)",
+        "items": [
+          "Security Update\ud83d\udd12 (Tomahawk)"
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.13.0.9033.65367",
     "date": "2026-07-21",
     "sections": [
